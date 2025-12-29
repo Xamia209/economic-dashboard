@@ -3,7 +3,6 @@ import json
 import os
 import pandas as pd
 
-# ================== CẤU HÌNH TRANG ==================
 st.set_page_config(
     page_title="Economic Dashboard",
     layout="wide"
@@ -11,13 +10,11 @@ st.set_page_config(
 
 st.title("📊 Dashboard Tin tức Kinh tế")
 
-# ================== ĐƯỜNG DẪN ==================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-NEWS_PATH = os.path.join(BASE_DIR, "..", "economic_dashboard", "sentiment_news.json")
-SECTOR_PATH = os.path.join(BASE_DIR, "..", "economic_dashboard", "sector_sentiment_summary.json")
+NEWS_PATH = os.path.join(BASE_DIR, "sentiment_news.json")
+SECTOR_PATH = os.path.join(BASE_DIR, "sector_sentiment_summary.json")
 
-# ================== LOAD DỮ LIỆU ==================
 def load_json(path):
     if not os.path.exists(path):
         st.error(f"❌ Không tìm thấy file: {path}")
@@ -29,7 +26,7 @@ news_data = load_json(NEWS_PATH)
 sector_data = load_json(SECTOR_PATH)
 
 df_news = pd.DataFrame(news_data)
-df_sector = pd.DataFrame(sector_data).T  # rất quan trọng
+df_sector = pd.DataFrame(sector_data).T
 
 # ================== CHIA CỘT ==================
 left_col, right_col = st.columns([2, 1])
@@ -91,14 +88,3 @@ with right_col:
 
     chart_data = df_sector[["positive", "neutral", "negative"]]
     st.bar_chart(chart_data)
-
-from flask import Flask
-
-app = Flask(__name__)
-
-@app.route("/")
-def home():
-    return "Hello!"
-
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
