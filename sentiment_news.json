@@ -1,6 +1,22 @@
 [
   {
-    "title": "Sample news mới",
-    "sentiment": "Positive"
+    "title": "Tin kinh tế mới cập nhật",
+    "link": "#",
+    "sector": "macro",
+    "sentiment_label": "positive",
+    "sentiment": {
+      "compound": 0.56
+    },
+    "published_at": "2026-01-01T20:03:22.934296"
+  },
+  {
+    "title": "Thị trường tài chính biến động nhẹ",
+    "link": "#",
+    "sector": "finance",
+    "sentiment_label": "neutral",
+    "sentiment": {
+      "compound": 0.02
+    },
+    "published_at": "2026-01-01T20:03:22.934317"
   }
 ]

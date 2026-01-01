@@ -4,8 +4,143 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 27350,
+    "totalArticles": 27440,
     "articles": [
+        {
+            "id": "d88a66b0bd8771d3ed4a63c0270f4090",
+            "title": "Ông Nguyễn Đức Thụy thoái vốn khỏi LPBank",
+            "description": "Ông Nguyễn Đức Thụy, Cựu chủ tịch ngân hàng Lộc Phát, không còn nằm trong danh sách cổ đông nắm trên 1% vốn của nhà băng này. - VnExpress",
+            "content": "Theo công bố từ Ngân hàng Lộc Phát (LPBank), ngày 31/12 nhà băng này chỉ còn một cổ đông nắm giữ trên 1% vốn, là Tổng công ty Bưu điện Việt Nam (VNPost). Như vậy, ông Nguyễn Đức Thụy đã thoái bớt vốn khỏi LPBank.\nTrước đó, doanh nhân này sở hữu hơn 7... [1376 chars]",
+            "url": "https://vnexpress.net/ong-nguyen-duc-thuy-thoai-von-khoi-lpbank-5000765.html",
+            "image": "https://vcdn1-kinhdoanh.vnecdn.net/2026/01/01/599725526119569661867336912961-3642-9987-1767206844.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QscYUFpZLANfebSjsEPoeg",
+            "publishedAt": "2026-01-01T01:02:17Z",
+            "lang": "vi",
+            "source": {
+                "id": "553871df747edaef7123d255496e0078",
+                "name": "VnExpress",
+                "url": "https://vnexpress.net"
+            }
+        },
+        {
+            "id": "eff4f70bdb6fb57ca22dbafcb83796fb",
+            "title": "Đường Lê Lợi bừng sáng đón năm mới",
+            "description": "Công trình chỉnh trang đường Lê Lợi không chỉ làm bừng sáng tuyến đường trung tâm mà theo lãnh đạo TP.HCM, đây là biểu tượng cho tinh thần đồng hành, đồng lòng của Nhà nước, doanh nghiệp và người dân.",
+            "content": "Được khánh thành ngày 31-12, ngày cuối cùng của năm 2025, công trình do Công ty cổ phần đầu tư và kinh doanh nhà Khang Điền (Công ty Khang Điền) tài trợ, được thực hiện nhanh gần 20 ngày.\nĐề xuất tài trợ tiếp chợ Bến Thành, đường Đồng Khởi, Nguyễn Hu... [4093 chars]",
+            "url": "https://tuoitre.vn/duong-le-loi-bung-sang-don-nam-moi-20251231234230581.htm",
+            "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/1/1/z73864660993231fc9b5c00945c212c1cc3bec727ca5af-1767228197886783621676-863-0-1758-1709-crop-1767229458656961063755.jpg",
+            "publishedAt": "2026-01-01T01:00:00Z",
+            "lang": "vi",
+            "source": {
+                "id": "7958117e3a99d7304d8e2c88fa397326",
+                "name": "Tuổi trẻ",
+                "url": "https://tuoitre.vn"
+            }
+        },
+        {
+            "id": "2fdcbfad0f243416a77c56ccf875b379",
+            "title": "Chính sách nổi bật có hiệu lực từ tháng 1/2026",
+            "description": "Tăng lương tối thiểu vùng, điều chỉnh thuế thu nhập cá nhân, chính sách ưu đãi dành cho nhà giáo, bổ sung quy định thu hồi đất là những chính sách bắt đầu áp dụng từ tháng 1/2026. - VnExpress",
+            "content": "Tăng lương tối thiểu vùng hơn 7%\nNghị định 293 của Chính phủ quy định mức lương tối thiểu đối với người lao động làm việc theo hợp đồng lao động có hiệu lực từ 1/1/2026, thay thế Nghị định 74/2024. Theo đó, lương tối thiểu vùng tăng thêm 250.000-350.... [6461 chars]",
+            "url": "https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-1-2026-4998283.html",
+            "image": "https://i2-vnexpress.vnecdn.net/2025/12/25/huy-7032-1766653397-6022-1766653726.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Eiwo5hVSSptvubHFis99kQ",
+            "publishedAt": "2026-01-01T01:00:00Z",
+            "lang": "vi",
+            "source": {
+                "id": "553871df747edaef7123d255496e0078",
+                "name": "VnExpress",
+                "url": "https://vnexpress.net"
+            }
+        },
+        {
+            "id": "9737d2e9ba5c5ac662ace34a3faae589",
+            "title": "Điều đặc biệt về 3 nữ ủy viên Trung ương vừa được điều động công tác mới",
+            "description": "Ba nữ Ủy viên Trung ương Đảng Lâm Thị Phương Thanh, Nguyễn Thị Thu Hà, Hà Thị Nga đều còn tuổi tái cử và từng làm Bí thư Tỉnh ủy trước khi giữ chức vụ quan trọng tại Trung ương",
+            "content": "Nhiều cơ quan Trung ương hôm qua công bố các quyết định điều động, phân công, chỉ định, bổ nhiệm cán bộ giữ chức vụ mới. Trong số đó, đáng chú ý có 3 nữ ủy viên Trung ương Đảng: Lâm Thị Phương Thanh, Nguyễn Thị Thu Hà và Hà Thị Nga.\nDù đảm nhiệm nhữn... [3379 chars]",
+            "url": "https://vietnamnet.vn/dieu-dac-biet-ve-3-nu-uy-vien-trung-uong-vua-duoc-dieu-dong-cong-tac-moi-2477997.html",
+            "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/1/1/dieu-dac-biet-ve-3-nu-uy-vien-trung-uong-vua-duoc-dieu-dong-cong-tac-moi-394.jpeg?width=0&s=0oxTRz0N71lPZR4pcu45Lw",
+            "publishedAt": "2026-01-01T01:00:00Z",
+            "lang": "vi",
+            "source": {
+                "id": "178ea092320deb9895c216146dc4d1a5",
+                "name": "Báo VietNamNet",
+                "url": "https://vietnamnet.vn"
+            }
+        },
+        {
+            "id": "735b430b87279830fb84e676d74e39f9",
+            "title": "Ngày 1/1: Giá vàng thế giới giảm kỷ lục, vàng trong nước giảm tới 2 triệu đồng/lượng",
+            "description": "Giá vàng thế giới giảm mạnh và rơi xuống mức thấp nhất trong vòng ba tuần trong phiên giao dịch ngày thứ Tư.",
+            "content": "So với sáng qua, giá vàng miếng hôm nay (1/1) đã giảm tới gần 2 triệu đồng/lượng. Cụ thể, các thương hiệu vàng SJC, DOJI, PNJ, Bảo Tín Minh Châu trong hôm qua đã đồng loạt giảm giá vàng miếng 1,9 triệu đồng/lượng ở cả hai chiều, niêm yết ở mức 150,8 ... [2383 chars]",
+            "url": "https://cafef.vn/ngay-1-1-gia-vang-the-gioi-giam-ky-luc-vang-trong-nuoc-giam-toi-2-trieu-dong-luong-188260101075633085.chn",
+            "image": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/1/1/vang-nhan-832-1767228907188628331353-0-0-702-1124-crop-1767228915321252048732.png",
+            "publishedAt": "2026-01-01T00:56:00Z",
+            "lang": "vi",
+            "source": {
+                "id": "15a26e0aa51cd58ba47e59620f3f41c6",
+                "name": "CafeF",
+                "url": "https://cafef.vn"
+            }
+        },
+        {
+            "id": "441a78fd4b84e828571f5b82060c4877",
+            "title": "Zalo không được phép chuyển giao dữ liệu cho bên thứ ba",
+            "description": "Trao đổi với Tuổi Trẻ, các chuyên gia cho rằng việc đề nghị Zalo tạm dừng chuyển giao dữ liệu cho các bên thứ ba là cần thiết, kịp thời.",
+            "content": "Ủy ban Cạnh tranh quốc gia đã ra thông báo yêu cầu Công ty CP Tập đoàn VNG - đơn vị vận hành Zalo - có biện pháp bảo vệ thông tin người dùng và tạm thời không chuyển giao cho bên thứ ba, kể cả những người đã chấp nhận thỏa thuận sử dụng dịch vụ Zalo ... [4093 chars]",
+            "url": "https://tuoitre.vn/zalo-khong-duoc-phep-chuyen-giao-du-lieu-cho-ben-thu-ba-20251231232847491.htm",
+            "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/12/31/edit-dieu-khoan-zalo-7-2610698-read-only-17671978850651924180288-45-0-764-1373-crop-1767197949187451105826.jpeg",
+            "publishedAt": "2026-01-01T00:56:00Z",
+            "lang": "vi",
+            "source": {
+                "id": "7958117e3a99d7304d8e2c88fa397326",
+                "name": "Tuổi trẻ",
+                "url": "https://tuoitre.vn"
+            }
+        },
+        {
+            "id": "a974b1963d5803d69d6e2334c5724a3f",
+            "title": "Những điều luật giao thông mới từ 2026: Siết chặt an toàn, quản lý tài xế",
+            "description": "Từ năm 2026, nhiều quy định mới về giao thông đường bộ chính thức có hiệu lực, tập trung siết chặt quản lý phương tiện, khí thải, an toàn người tham gia giao thông.",
+            "content": "Từ năm 2026, hàng loạt quy định mới liên quan đến giao thông đường bộ sẽ chính thức có hiệu lực, tập trung vào các nhóm chính: quy định an toàn cho trẻ em trên ô tô, kiểm định khí thải xe ô tô, quản lý thời gian làm việc của tài xế kinh doanh vận tải... [4627 chars]",
+            "url": "https://vietnamnet.vn/nhung-dieu-luat-giao-thong-moi-tu-2026-siet-chat-an-toan-quan-ly-tai-xe-2477985.html",
+            "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/1/1/nhung-dieu-luat-giao-thong-moi-tu-2026-siet-chat-an-toan-quan-ly-tai-xe-365.png?width=0&s=N7mI-NVclikwuc1XNiyJpA",
+            "publishedAt": "2026-01-01T00:27:00Z",
+            "lang": "vi",
+            "source": {
+                "id": "178ea092320deb9895c216146dc4d1a5",
+                "name": "Báo VietNamNet",
+                "url": "https://vietnamnet.vn"
+            }
+        },
+        {
+            "id": "6d7479fa11976815d5638f5d2b05fc06",
+            "title": "Quy hoạch trung tâm hành chính mới",
+            "description": "Quảng Ninh hiện đang xúc tiến, thu hút mạnh mẽ đầu tư vào các dự án lớn, dự án động lực, qua đó thúc đẩy kinh tế - xã hội phát triển đột phá. Trong đó có tập trung vào phát triển hạ tầng giao thông, khu đô thị nhằm mở rộng, tạo thêm không gian phát triển. Đặc biệt để phục vụ ngày một tốt hơn người dân và cộng đồng doanh nghiệp, tỉnh đang quy hoạch, dự kiến triển khai trung tâm hành chính mới tại xã Thống Nhất.",
+            "content": "Quảng Ninh hiện đang xúc tiến, thu hút mạnh mẽ đầu tư vào các dự án lớn, dự án động lực, qua đó thúc đẩy kinh tế - xã hội phát triển đột phá. Trong đó có tập trung vào phát triển hạ tầng giao thông, khu đô thị nhằm mở rộng, tạo thêm không gian phát t... [3630 chars]",
+            "url": "https://baoquangninh.vn/quy-hoach-trung-tam-hanh-chinh-moi-3390378.html",
+            "image": "https://media.baoquangninh.vn/thumb/600/upload/image/202512/thumbnail/2453839_cac_vi_dai_bieu_thuc_hien_nghi_thuc_nhan_nut_khoi_cong_2_du_an_duong_ven_bien_phia_tay_bac_vinh_cua_luc_va_duong_bao_bien_keo_dai_09132826.jpg",
+            "publishedAt": "2026-01-01T00:26:00Z",
+            "lang": "vi",
+            "source": {
+                "id": "7f054d7231d649740ea33259eea57a77",
+                "name": "Báo Quảng Ninh",
+                "url": "https://baoquangninh.vn"
+            }
+        },
+        {
+            "id": "7a6eed1143388fa868acf98f9aa1b75f",
+            "title": "Danh sách các địa bàn áp dụng PHỤ CẤP KHU VỰC từ 1/1/2026",
+            "description": "Thay thế “Phụ lục mức phụ cấp khu vực của các địa phương, đơn vị” ban hành kèm theo Thông tư liên tịch số 11/2005/TTLT-BNV-BLĐTBXH-BTCUBDT” bằng “Phụ lục danh sách các địa bàn áp dụng phụ cấp khu vực”",
+            "content": "Bộ trưởng Bộ Nội vụ ban hành Thông tư 23/2025/TT-BNV ngày 24/12/2025 sửa đổi, bổ sung một số nội dung của Thông tư liên tịch số 11/2005/TTLTBNV-BLĐTBXH-BTC-UBDT ngày 05/01/2005 của Bộ trưởng Bộ Nội vụ, Bộ trưởng Bộ Lao động - Thương binh và Xã hội, B... [445 chars]",
+            "url": "https://xaydungchinhsach.chinhphu.vn/danh-sach-cac-dia-ban-ap-dung-phu-cap-khu-vuc-tu-1-1-2026-119251230161022234.htm",
+            "image": "https://xdcs.cdnchinhphu.vn/zoom/600_315/446259493575335936/2025/12/30/cs-17670094618451396755686-0-154-991-1740-crop-17670857071871564330319.jpeg",
+            "publishedAt": "2026-01-01T00:14:38Z",
+            "lang": "vi",
+            "source": {
+                "id": "8086c060031de65ca1bcbccfabb6e214",
+                "name": "xaydungchinhsach.chinhphu.vn",
+                "url": "https://xaydungchinhsach.chinhphu.vn"
+            }
+        },
         {
             "id": "03db4576c7bca0ccbe5a3eb67e31e76d",
             "title": "Chính sách mới có hiệu lực từ tháng 1/2026",
@@ -19,141 +154,6 @@
                 "id": "ac327556d9e4e31382c13efbe68c2543",
                 "name": "baochinhphu.vn",
                 "url": "https://baochinhphu.vn"
-            }
-        },
-        {
-            "id": "12d4f29c3b47ee72aa951f48916cd2a0",
-            "title": "Động lực phát triển hạ tầng và giao thông",
-            "description": "TP HCM vừa thông qua nhiều nghị quyết quan trọng, tạo động lực phát triển hạ tầng kết nối. Tìm hiểu các dự án metro, cầu đường bộ và chiến lược phát triển bền vững cho thành phố.",
-            "content": "Các nghị quyết được HĐND TP HCM thông qua tại kỳ họp cuối năm 2025 được xem là \"đường băng\" quan trọng để thành phố tiếp tục cất cánh, thực hiện thành công mục tiêu phát triển kinh tế - xã hội năm 2026 và giai đoạn 2026-2030.\nLan tỏa hiệu ứng từ metr... [5672 chars]",
-            "url": "https://nld.com.vn/them-duong-bang-cho-tp-hcm-bay-cao-196251231213310292.htm",
-            "image": "https://nld.mediacdn.vn/zoom/600_315/291774122806476800/2025/12/31/5-chot2-17671891655491679291964-0-256-1440-2560-crop-1767191653001580229878.jpg",
-            "publishedAt": "2025-12-31T23:38:00Z",
-            "lang": "vi",
-            "source": {
-                "id": "e492070df8d46f26655be5e2db986599",
-                "name": "Báo Người Lao Động",
-                "url": "https://nld.com.vn"
-            }
-        },
-        {
-            "id": "ae8ed5850c6dece245dc7678d8ea34fa",
-            "title": "Những điều luật giao thông mới có hiệu lực từ 2026",
-            "description": "Bước sang năm 2026, một số điều luật giao thông mới chính thức có hiệu lực, với hai mốc thời gian áp dụng là từ 1/1 và 1/7.",
-            "content": "Trẻ em không được ngồi ghế trước, bắt buộc dùng thiết bị an toàn từ năm 2026\nTheo Luật số 118/2025 sửa đổi, bổ sung một số điều của 10 luật liên quan đến an ninh, trật tự, từ ngày 1/7/2026, các quy định mới về an toàn trẻ em khi tham gia giao thông b... [3806 chars]",
-            "url": "https://tienphong.vn/nhung-dieu-luat-giao-thong-moi-co-hieu-luc-tu-2026-post1809378.tpo",
-            "image": "https://cdn.tienphong.vn/images/bdfc554ea35983ad68a96e0050b6e2cb9b28470c92a2edb67a6bd3acbe4c0e87ea18c90ae9d3c31ca986bc488a4b2a76417e18d9cc5fd00620071744d3d7b218f4c13711f7b08f4fae56ac27e9da73a1/tai-xe-khong-qua-48-gio-tuan.jpg.webp",
-            "publishedAt": "2025-12-31T23:12:00Z",
-            "lang": "vi",
-            "source": {
-                "id": "21f109b221b6bfae02bae8ff9669aa03",
-                "name": "Báo điện tử Tiền Phong",
-                "url": "https://tienphong.vn"
-            }
-        },
-        {
-            "id": "9de08b8e0327830a487037677a5acaa9",
-            "title": "Dự đoán năm 2026 theo thần số học",
-            "description": "Năm 2025 đã qua đi và kết thúc một chu kỳ, 2026 là thời điểm để chúng ta nắm bắt cơ hội. Đã đến lúc trở thành nhân vật chính và tỏa sáng.",
-            "content": "2026 đánh dấu năm Thế giới số 1. Ảnh: Yes No Tarot.\nTheo Sarah Potter, tác giả của cuốn sách Sober Magic, năm 2026 là năm Thế giới số 1 (Universal Year 1), có nghĩa là chúng ta đang cùng nhau bước vào giai đoạn đầu của một chu kỳ 9 năm mới.\nĐây là nă... [5313 chars]",
-            "url": "https://znews.vn/du-doan-nam-2026-theo-than-so-hoc-post1615812.html",
-            "image": "https://photo.znews.vn/w1250/Uploaded/ofh_btgazspf/2025_12_31/nam_the_gioi_so_1_1.jpg",
-            "publishedAt": "2025-12-31T23:06:25Z",
-            "lang": "vi",
-            "source": {
-                "id": "9a068efe1652f5a34fc3a9d290388219",
-                "name": "Znews",
-                "url": "https://znews.vn"
-            }
-        },
-        {
-            "id": "c37c994b702e6d264036b1a11c49af09",
-            "title": "Những quy định mới ảnh hưởng đến bất động sản từ 1/1",
-            "description": "Từ ngày 1/1, các địa phương áp dụng bảng giá đất lần đầu, giảm tiền chuyển đổi đất nông nghiệp sang thổ cư, thêm trường hợp thu hồi đất. - VnExpress",
-            "content": "Áp dụng bảng giá đất lần đầu\nTừ 1/1, hệ thống bảng giá đất lần đầu theo Luật Đất đai 2024 chính thức có hiệu lực, thay thế cho bảng giá ban hành theo Luật Đất đai 2013 (gia hạn đến 31/12/2025). Bảng giá lần đầu được xây dựng theo loại, vị trí, khu vự... [4590 chars]",
-            "url": "https://vnexpress.net/nhung-quy-dinh-moi-anh-huong-den-bat-dong-san-tu-1-1-5000732.html",
-            "image": "https://i2-vnexpress.vnecdn.net/2025/12/31/dji-20251002122505-0022-d-1-17-5365-5398-1767193171.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5-wjTpDp4QqjC0rGrvOZqQ",
-            "publishedAt": "2025-12-31T23:00:00Z",
-            "lang": "vi",
-            "source": {
-                "id": "553871df747edaef7123d255496e0078",
-                "name": "VnExpress",
-                "url": "https://vnexpress.net"
-            }
-        },
-        {
-            "id": "bfca421df4b90c9177f1a4a125d19380",
-            "title": "Từ 2025 sang 2026: Thế cờ vững chãi cho những nước đi bứt phá",
-            "description": "Năm 2025 đã tạo lập được một thế cờ vững chãi. Vấn đề chỉ còn là chúng ta vào cuộc cờ này 2026 và các năm tiếp theo như thế nào?",
-            "content": "Mấy ai trong chúng ta vào ngày 1/1/2025 có thể hình dung hết được những gì sẽ diễn ra trong năm với cả hệ thống chính trị. Nhiều thay đổi cả về tổ chức bộ máy, cả về con người trong bộ máy đã diễn ra. Những con số về giảm tổ chức, giảm con người tron... [5283 chars]",
-            "url": "https://vietnamnet.vn/tu-2025-sang-2026-the-co-vung-chai-cho-nhung-nuoc-di-but-pha-2476676.html",
-            "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/1/1/tu-2025-sang-2026-the-co-vung-chai-cho-nhung-nuoc-di-but-pha-225.jpg?width=0&s=YRWoE03GPlNWzIiHVt9uyA",
-            "publishedAt": "2025-12-31T23:00:00Z",
-            "lang": "vi",
-            "source": {
-                "id": "178ea092320deb9895c216146dc4d1a5",
-                "name": "Báo VietNamNet",
-                "url": "https://vietnamnet.vn"
-            }
-        },
-        {
-            "id": "2936cd9f0db242ea19a459a6d4239ccf",
-            "title": "Công dân trẻ tiêu biểu TP.HCM 2025: Khi tài năng đi cùng sự tử tế",
-            "description": "Hôm nay (1-1), ngày đầu tiên của năm mới 2026, lễ vinh danh 12 Công dân trẻ tiêu biểu TP.HCM 2025 sẽ được tổ chức.",
-            "content": "Những điển hình trẻ nổi bật của các lĩnh vực, xuất sắc trong chuyên môn và lan tỏa mạnh mẽ tinh thần cống hiến, trách nhiệm cùng sự tử tế giữa cộng đồng.\nĐây cũng là năm thứ 20 Thành Đoàn TP.HCM có sáng kiến bình chọn và tuyên dương Công dân trẻ tiêu... [4058 chars]",
-            "url": "https://tuoitre.vn/cong-dan-tre-tieu-bieu-tp-hcm-2025-khi-tai-nang-di-cung-su-tu-te-20251231223210087.htm",
-            "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/12/31/7774-176722408413969736441-195-0-1200-1920-crop-17672241096221281597542.png",
-            "publishedAt": "2025-12-31T23:00:00Z",
-            "lang": "vi",
-            "source": {
-                "id": "7958117e3a99d7304d8e2c88fa397326",
-                "name": "Tuổi trẻ",
-                "url": "https://tuoitre.vn"
-            }
-        },
-        {
-            "id": "7d0002d0eb4ee384ebd4d37df7df24bc",
-            "title": "Thể thao Việt Nam chạm nhiều cột mốc thế giới năm 2025",
-            "description": "Năm 2025 là năm vô cùng đáng nhớ với thể thao Việt Nam, khi nhiều VĐV nổi danh của nước nhà chạm đến đẳng cấp thế giới.",
-            "content": "SEA Games 33 là sự kiện lớn nhận được nhiều sự quan tâm của làng thể thao nước nhà. Nhưng xuyên suốt nhiều tháng trước SEA Games, năm 2025 của thể thao Việt Nam đã rộn rã với những cột mốc thế giới ấn tượng.\nNổi bật nhất chính là chức vô địch thế giớ... [2674 chars]",
-            "url": "https://tuoitre.vn/the-thao-viet-nam-cham-nhieu-cot-moc-the-gioi-nam-2025-20251231095544827.htm",
-            "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/12/31/bong-chuyen-1-1765796960443162408993-40-38-1092-2048-crop-1767156948090631512992.jpg",
-            "publishedAt": "2025-12-31T23:00:00Z",
-            "lang": "vi",
-            "source": {
-                "id": "7958117e3a99d7304d8e2c88fa397326",
-                "name": "Tuổi trẻ",
-                "url": "https://tuoitre.vn"
-            }
-        },
-        {
-            "id": "13b40aba9e542c031dda7224d4bf9bb4",
-            "title": "Hà Nội công bố 10 dấu ấn nổi bật của thủ đô năm 2025",
-            "description": "(Dân trí) - Những tháng cuối năm 2025 đã chứng kiến một thay đổi lớn có tính đột phá về sự quyết liệt và tốc độ giải quyết công việc của cả hệ thống chính",
-            "content": "1. Đổi mới mạnh mẽ tư duy, phương thức, phong cách lãnh đạo theo hướng \"hành động - thực chất\".\n\"Hà Nội đã nói là làm - làm nhanh, làm đúng, làm hiệu quả, làm đến cùng\" - chỉ đạo của Tổng Bí thư Tô Lâm đã trở thành mệnh lệnh hành động, là phương châm... [4921 chars]",
-            "url": "https://dantri.com.vn/thoi-su/ha-noi-cong-bo-10-dau-an-noi-bat-cua-thu-do-nam-2025-20251231181202803.htm",
-            "image": "https://cdnphoto.dantri.com.vn/gNuZyb7tDzD8OdRBrU447hgbigo=/zoom/1200_630/2025/12/31/ha-noi-cong-bo-10-dau-an-noi-bat-cua-thu-do-nam-2025-cropped-1767180826640.jpg",
-            "publishedAt": "2025-12-31T23:00:00Z",
-            "lang": "vi",
-            "source": {
-                "id": "5af32749125ade85b1d2d28cea5d2e35",
-                "name": "Báo Dân trí",
-                "url": "https://dantri.com.vn"
-            }
-        },
-        {
-            "id": "f680675e2e2c4fce93846856e55678fc",
-            "title": "27 ngân hàng tăng lãi suất: Lộ diện nhà băng có mức tăng mạnh nhất",
-            "description": "Tháng 12/2025 khép lại với 27 ngân hàng tăng lãi suất huy động, đây là tháng ghi nhận nhiều ngân hàng tăng lãi suất nhất trong năm 2025 và không có ngân hàng nào giảm lãi suất.",
-            "content": "Nhà băng nào có mức tăng mạnh nhất?\nNhiều ngân hàng như NCB, Techcombank, OCB, MB, ACB, Saigonbank, Sacombank, PGBank, VietinBank, BVBank và VIB đã hai lần điều chỉnh tăng lãi suất huy động. Riêng VPBank, OCB và PGBank đã tăng lãi suất lần thứ 3 tron... [3112 chars]",
-            "url": "https://vietnamnet.vn/27-ngan-hang-tang-lai-suat-lo-dien-nha-bang-co-muc-tang-manh-nhat-2477933.html",
-            "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2025/12/31/27-ngan-hang-tang-lai-suat-3182.jpg?width=0&s=CS9EihQu8Tmcaq13wB1Xow",
-            "publishedAt": "2025-12-31T22:45:00Z",
-            "lang": "vi",
-            "source": {
-                "id": "178ea092320deb9895c216146dc4d1a5",
-                "name": "Báo VietNamNet",
-                "url": "https://vietnamnet.vn"
             }
         }
     ]
