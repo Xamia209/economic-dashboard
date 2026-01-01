@@ -4,8 +4,38 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 25760,
+    "totalArticles": 25778,
     "articles": [
+        {
+            "id": "23372e1af60236b4b5ba98a30fdbf2ba",
+            "title": "Ngày đầu nghỉ Tết Dương lịch 2026, dòng ô tô ùn ùn ra cao tốc Pháp Vân",
+            "description": "Ngày đầu tiên của kỳ nghỉ Tết Dương lịch 2026, đường vành đai 3 và cao tốc Pháp Vân - Cầu Giẽ có lưu lượng phương tiện gia tăng đột biến.",
+            "content": "Sáng nay (1/1), nhiều tuyến đường hướng ra cửa ngõ phía nam của Hà Nội có lượng phương tiện đông đúc, thậm chí ùn tắc cục bộ.\nTheo ghi nhận trực tiếp của phóng viên tại đường Vành đai 3 (đoạn qua hồ Linh Đàm) hướng về cầu Thanh Trì, dòng phương tiện ... [1249 chars]",
+            "url": "https://vietnamnet.vn/ngay-dau-nghi-tet-duong-lich-2026-dong-o-to-un-un-ra-cao-toc-phap-van-2478098.html",
+            "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/1/1/vanh-dai-3jpg-746.jpg?width=0&s=QnFzPwPdvCmn93Jcjc9jNA",
+            "publishedAt": "2026-01-01T02:51:00Z",
+            "lang": "vi",
+            "source": {
+                "id": "178ea092320deb9895c216146dc4d1a5",
+                "name": "Báo VietNamNet",
+                "url": "https://vietnamnet.vn"
+            }
+        },
+        {
+            "id": "19969086dfeb5ad03509d8f3504af95e",
+            "title": "Xe bán tải chịu thuế tiêu thụ đặc biệt từ 1",
+            "description": "(NLĐO)- Xe bán tải vào diện chịu thuế tiêu thụ đặc biệt từ 1-1-2026, với mức thuế suất tăng dần theo lộ trình đến năm 2029.",
+            "content": "Chính phủ ban hành Nghị định 360 quy định chi tiết thi hành một số điều của Luật Thuế tiêu thụ đặc biệt (TTĐB), có hiệu lực từ hôm nay 1-1-2026.\nNghị định quy định đối tượng chịu thuế TTĐB như sau.\nXe có gắn động cơ dưới 24 chỗ, bao gồm: Xe ô tô chở ... [3505 chars]",
+            "url": "https://nld.com.vn/xe-ban-tai-chiu-thue-tieu-thu-dac-biet-tu-hom-nay-1-1-2026-196260101083043706.htm",
+            "image": "https://nld.mediacdn.vn/zoom/600_315/291774122806476800/2026/1/1/ban-tai-16941604341051065947107-0-0-427-684-crop-17672308351801020117392.png",
+            "publishedAt": "2026-01-01T02:47:00Z",
+            "lang": "vi",
+            "source": {
+                "id": "e492070df8d46f26655be5e2db986599",
+                "name": "Báo Người Lao Động",
+                "url": "https://nld.com.vn"
+            }
+        },
         {
             "id": "707ab7f5341571018b7fc6ec7e397fb0",
             "title": "Dòng xe ùn tắc hơn 3 km ở cửa ngõ phía đông TP HCM",
@@ -124,36 +154,6 @@
                 "id": "7958117e3a99d7304d8e2c88fa397326",
                 "name": "Tuổi trẻ",
                 "url": "https://tuoitre.vn"
-            }
-        },
-        {
-            "id": "6d1de571c4836fe9aec6a5a44115cf68",
-            "title": "Hướng dẫn nhận 400.000 đồng tiền quà dịp Đại hội Đảng và Tết Nguyên đán",
-            "description": "Tổng số đối tượng thụ hưởng trong đợt tặng quà 400.000 đồng dịp Đại hội Đảng và Tết Nguyên đán Bính Ngọ là 6.284.865 người trên phạm vi toàn quốc.",
-            "content": "Theo Nghị quyết số 418 ngày 28/12/2025 của Chính phủ về việc tặng quà của Đảng, Nhà nước nhân dịp chào mừng Đại hội đại biểu toàn quốc lần thứ XIV của Đảng và Tết Nguyên đán Bính Ngọ năm 2026, mỗi phần quà trị giá 400.000 đồng sẽ được chuyển cho các ... [2015 chars]",
-            "url": "https://vietnamnet.vn/huong-dan-nhan-400-000-dong-tien-qua-dip-dai-hoi-dang-va-tet-nguyen-dan-2478096.html",
-            "image": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/1/1/huong-dan-nhan-400-440.jpg?width=0&s=JfIeFMiYL3n7RBXzJAWHuQ",
-            "publishedAt": "2026-01-01T01:35:00Z",
-            "lang": "vi",
-            "source": {
-                "id": "178ea092320deb9895c216146dc4d1a5",
-                "name": "Báo VietNamNet",
-                "url": "https://vietnamnet.vn"
-            }
-        },
-        {
-            "id": "aab10129613da755d8a477546f006384",
-            "title": "Bộ Khoa học và Công nghệ một năm làm 10 luật, 23 nghị định",
-            "description": "Thứ trưởng Bùi Hoàng Phương cho biết Bộ Khoa học và Công nghệ đã xây dựng 10 luật, 23 nghị định và 71 thông tư trong năm 2025 nhằm \"đột phá về thể chế\". - VnExpress",
-            "content": "Tại họp báo chiều 31/12/2025, Thứ trưởng đánh giá đây là \"khối lượng công việc rất lớn\", thể hiện rõ trọng tâm của Bộ trong việc hoàn thiện hành lang pháp lý, tạo cơ chế, chính sách cho khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.\nNgay sau... [4204 chars]",
-            "url": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-mot-nam-lam-10-luat-23-nghi-dinh-5000705.html",
-            "image": "https://i2-vnexpress.vnecdn.net/2025/12/31/hop-bao-12-3-1767182073-176718-3261-6398-1767182512.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RfxNi_VOyjftriOIPbwTWA",
-            "publishedAt": "2026-01-01T01:29:39Z",
-            "lang": "vi",
-            "source": {
-                "id": "553871df747edaef7123d255496e0078",
-                "name": "VnExpress",
-                "url": "https://vnexpress.net"
             }
         }
     ]
