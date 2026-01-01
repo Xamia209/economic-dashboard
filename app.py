@@ -2,17 +2,6 @@ import streamlit as st
 import json
 import os
 import pandas as pd
-import subprocess
-import sys
-
-st.sidebar.header("⚙️ Điều khiển")
-
-if st.sidebar.button("🔄 Cập nhật tin tức mới"):
-    with st.spinner("Đang cập nhật tin tức..."):
-        subprocess.run([sys.executable, "update_news.py"])
-    st.success("✅ Đã cập nhật xong!")
-    st.rerun()
-
 
 st.set_page_config(
     page_title="Economic Dashboard",

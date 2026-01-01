@@ -1,16 +1,19 @@
-# update_news.py
 import json
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+NEWS_PATH = os.path.join(BASE_DIR, "sentiment_news.json")
 
 def update_news():
-    # 👉 chỗ này là code crawl + sentiment của bạn
     news_data = [
         {
-            "title": "Sample news",
+            "title": "Sample news mới",
             "sentiment": "Positive"
         }
     ]
 
-    with open("sentiment_news.json", "w", encoding="utf-8") as f:
+    with open(NEWS_PATH, "w", encoding="utf-8") as f:
         json.dump(news_data, f, ensure_ascii=False, indent=2)
 
-    # nếu bạn có sector summary thì ghi tiếp ở đây
+if __name__ == "__main__":
+    update_news()
