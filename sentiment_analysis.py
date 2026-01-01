@@ -3,7 +3,6 @@ import os
 from nltk.sentiment import SentimentIntensityAnalyzer
 from collections import Counter
 
-# Load file clean_data.json
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 input_path = os.path.join(BASE_DIR, "clean_data.json")
 
@@ -12,30 +11,6 @@ with open(input_path, "r", encoding="utf-8") as f:
 
 sia = SentimentIntensityAnalyzer()
 results = []
-
-# Phân tích từng bài báo
-for article in articles:
-    text = f"{article['title']} {article['description']}"
-    score = sia.polarity_scores(text)
-
-    article["sentiment"] = score
-
-    compound = score["compound"]
-    if compound >= 0.05:
-        article["sentiment_label"] = "positive"
-    elif compound <= -0.05:
-        article["sentiment_label"] = "negative"
-    else:
-        article["sentiment_label"] = "neutral"
-
-    results.append(article)
-
-# Lưu sentiment_news.json
-output_path = os.path.join(BASE_DIR, "sentiment_news.json")
-with open(output_path, "w", encoding="utf-8") as f:
-    json.dump(results, f, ensure_ascii=False, indent=4)
-
-print("🔥 Sentiment analysis done! Saved to sentiment_news.json")
 
 SECTORS = {
     "banking": ["ngân hàng", "lãi suất", "tín dụng", "vay vốn"],
@@ -52,14 +27,38 @@ def detect_sector(text):
                 return sector
     return "other"
 
+# ===== PHÂN TÍCH TỪNG BÀI =====
 for article in articles:
+    text = f"{article.get('title','')} {article.get('description','')}"
+    score = sia.polarity_scores(text)
+
+    compound = score["compound"]
+    if compound >= 0.05:
+        label = "positive"
+    elif compound <= -0.05:
+        label = "negative"
+    else:
+        label = "neutral"
+
+    article["sentiment"] = score
+    article["sentiment_label"] = label
     article["sector"] = detect_sector(article.get("title", ""))
 
+    results.append(article)
+
+# ===== LƯU sentiment_news.json =====
+output_path = os.path.join(BASE_DIR, "sentiment_news.json")
+with open(output_path, "w", encoding="utf-8") as f:
+    json.dump(results, f, ensure_ascii=False, indent=4)
+
+print("🔥 Sentiment analysis done!")
+
+# ===== TỔNG HỢP THEO NGÀNH =====
 sector_sentiment = {}
 
-for article in articles:
+for article in results:
     sector = article.get("sector", "other")
-    sentiment = article.get("sentiment_label", "unknown")
+    sentiment = article.get("sentiment_label", "neutral")
 
     sector_sentiment.setdefault(sector, Counter())
     sector_sentiment[sector][sentiment] += 1
@@ -73,9 +72,8 @@ for sector, counter in sector_sentiment.items():
         "negative": counter.get("negative", 0),
     }
 
-# Lưu sector_sentiment_summary.json
 output_path = os.path.join(BASE_DIR, "sector_sentiment_summary.json")
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(summary, f, ensure_ascii=False, indent=4)
 
-print("✅ Saved sector sentiment summary to sector_sentiment_summary.json")
+print("✅ Saved sector sentiment summary")
