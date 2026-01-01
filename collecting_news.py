@@ -8,6 +8,7 @@ def run_daily_task():
         "country": "vn",
         "lang": "vi",
         "topic": "business",
+        "max": 50,
         "token": "e5ce969339d5238cbb6a72d877fde94e"
     }
 

@@ -4,8 +4,23 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 25722,
+    "totalArticles": 25732,
     "articles": [
+        {
+            "id": "a3c9ed49757f7aeef96c1a964c5e950f",
+            "title": "Nút giao An Phú, vòng xoay Phú Hữu ùn ứ, cao tốc thông thoáng trong ngày đầu năm mới",
+            "description": "Sáng 1-1, người dân tại TP.HCM tiếp tục về quê nghỉ Tết dương lịch 2026 khiến nút giao An Phú, vòng xoay Phú Hữu ùn ứ. Nhưng trên tuyến cao tốc TP.HCM - Long Thành - Dầu Giây xe lưu thông bình thường.",
+            "content": "Ghi nhận của Tuổi Trẻ Online trong buổi sáng đầu tiên của năm mới 2026, đến hơn 8h, nhiều người dân tại TP.HCM tiếp tục rời thành phố đi nghỉ lễ.\nTại nút giao An Phú, lượng xe, nhất là ô tô, tại khu vực này tăng đột biến do nhu cầu đi lại tăng cao kh... [818 chars]",
+            "url": "https://tuoitre.vn/nut-giao-an-phu-vong-xoay-phu-huu-un-u-cao-toc-thong-thoang-trong-ngay-dau-nam-moi-20260101090326887.htm",
+            "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/1/1/2-17672324165431661468035-367-0-1707-2560-crop-17672329503601961667162.jpg",
+            "publishedAt": "2026-01-01T02:33:00Z",
+            "lang": "vi",
+            "source": {
+                "id": "7958117e3a99d7304d8e2c88fa397326",
+                "name": "Báo Tuổi Trẻ",
+                "url": "https://tuoitre.vn"
+            }
+        },
         {
             "id": "9a3fefd443c2cf3ea1f77e6edc7ac82f",
             "title": "Ủy ban Cạnh tranh quốc gia yêu cầu K+ giải trình việc ngừng dịch vụ từ 2026",
@@ -139,21 +154,6 @@
                 "id": "7958117e3a99d7304d8e2c88fa397326",
                 "name": "Tuổi trẻ",
                 "url": "https://tuoitre.vn"
-            }
-        },
-        {
-            "id": "b746e1070ddbb7ddde2e7848813023cb",
-            "title": "5 xu hướng lưu trữ 2026 giúp nhà gọn tênh và cực có gu",
-            "description": "(Dân trí) - Quên đi những căn nhà mẫu lạnh lẽo, năm 2026 đánh dấu sự lên ngôi của phong cách lưu trữ có hồn. Dưới đây là 5 lời khuyên từ chuyên gia giúp bạn",
-            "content": "Nếu như những năm trước, chúng ta bị ám ảnh bởi những chiếc hộp nhựa trong suốt xếp đều tăm tắp như siêu thị, thì xu hướng năm 2026 lại hướng về sự bình thường mới.\nCác chuyên gia tổ chức nhà cửa quốc tế nhận định rằng người dùng đang dần chán ngán s... [2909 chars]",
-            "url": "https://dantri.com.vn/bat-dong-san/5-xu-huong-luu-tru-2026-giup-nha-gon-tenh-va-cuc-co-gu-20251230205804715.htm",
-            "image": "https://cdnphoto.dantri.com.vn/yk2ldGR7Q_SdpZAc34WWlkm8WEQ=/zoom/1200_630/2025/12/30/cover-image-ph188179-1536x861-cropped-1767099707152.jpg",
-            "publishedAt": "2026-01-01T01:08:00Z",
-            "lang": "vi",
-            "source": {
-                "id": "5af32749125ade85b1d2d28cea5d2e35",
-                "name": "Báo Dân trí",
-                "url": "https://dantri.com.vn"
             }
         }
     ]

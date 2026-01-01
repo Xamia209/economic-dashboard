@@ -13,19 +13,41 @@ sia = SentimentIntensityAnalyzer()
 results = []
 
 SECTORS = {
-    "banking": ["ngân hàng", "lãi suất", "tín dụng", "vay vốn"],
-    "real_estate": ["bất động sản", "nhà đất", "chung cư"],
-    "stock": ["chứng khoán", "cổ phiếu", "vn-index"],
-    "export": ["xuất khẩu", "xuất nhập khẩu", "đơn hàng"],
+    "banking": [
+        "ngân hàng", "nhnn", "lãi suất", "tín dụng", "vay",
+        "lãi điều hành", "thanh khoản", "huy động vốn"
+    ],
+    "real_estate": [
+        "bất động sản", "địa ốc", "nhà đất", "chung cư",
+        "dự án", "thị trường nhà", "mua bán nhà"
+    ],
+    "stock": [
+        "chứng khoán", "cổ phiếu", "vn-index", "vnindex",
+        "hose", "hnx", "upcom", "thị trường chứng khoán"
+    ],
+    "export": [
+        "xuất khẩu", "xuất nhập khẩu", "đơn hàng",
+        "thương mại", "kim ngạch", "fdi", "xuất sang"
+    ],
+    "macro": [
+        "kinh tế", "tăng trưởng", "lạm phát", "gdp",
+        "chính sách", "vĩ mô", "tài khóa", "tiền tệ"
+    ]
 }
 
 def detect_sector(text):
     text = text.lower()
+    score = {}
+
     for sector, keywords in SECTORS.items():
-        for kw in keywords:
-            if kw in text:
-                return sector
-    return "other"
+        score[sector] = sum(1 for kw in keywords if kw in text)
+
+    best_sector = max(score, key=score.get)
+
+    if score[best_sector] == 0:
+        return "other"
+
+    return best_sector
 
 # ===== PHÂN TÍCH TỪNG BÀI =====
 for article in articles:
