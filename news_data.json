@@ -4,8 +4,23 @@
             "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
         }
     },
-    "totalArticles": 25732,
+    "totalArticles": 25760,
     "articles": [
+        {
+            "id": "707ab7f5341571018b7fc6ec7e397fb0",
+            "title": "Dòng xe ùn tắc hơn 3 km ở cửa ngõ phía đông TP HCM",
+            "description": "Dòng ôtô dồn về cao tốc TP HCM - Long Thành - Dầu Giây ở cửa ngõ phía đông thành phố, CSGT phải linh hoạt hạn chế xe từ xa, sáng 1/1. - VnExpress",
+            "content": "Từ sáng sớm, lưu lượng xe bắt đầu tăng cao ở cửa ngõ phía đông TP HCM, đa phần là người dân đi nghỉ Tết.\nTại khu vực nút giao An Phú, dòng ôtô nối dài trên đại lộ Mai Chí Thọ, đường Lương Định Của chờ lên cao tốc Long Thành - Dầu Giây về hướng Đồng N... [2003 chars]",
+            "url": "https://vnexpress.net/dong-xe-un-tac-hon-3-km-o-cua-ngo-phia-dong-tp-hcm-5000803.html",
+            "image": "https://i2-vnexpress.vnecdn.net/2026/01/01/giaothong-14-1767235160-1767235173.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_0h4H9kTwRlvUsyFiTsjXw",
+            "publishedAt": "2026-01-01T02:44:23Z",
+            "lang": "vi",
+            "source": {
+                "id": "553871df747edaef7123d255496e0078",
+                "name": "VnExpress",
+                "url": "https://vnexpress.net"
+            }
+        },
         {
             "id": "a3c9ed49757f7aeef96c1a964c5e950f",
             "title": "Nút giao An Phú, vòng xoay Phú Hữu ùn ứ, cao tốc thông thoáng trong ngày đầu năm mới",
@@ -139,21 +154,6 @@
                 "id": "553871df747edaef7123d255496e0078",
                 "name": "VnExpress",
                 "url": "https://vnexpress.net"
-            }
-        },
-        {
-            "id": "3909b2ab323491db3c51a6022d6a170b",
-            "title": "Phú Quốc 'bùng nổ' khách quốc tế",
-            "description": "Sở hữu cảnh đẹp biển rừng, cơ chế chính sách visa thông thoáng và nhiều sản phẩm du lịch đẳng cấp, đảo Phú Quốc đang từng ngày bước ra mặt tiền bản đồ du lịch thế giới khi khách quốc tế không ngừng đổ về.",
-            "content": "Hòn đảo xinh đẹp này đang là \"điểm đến vàng\" của khách quốc tế. Từ các điểm vui chơi khu Grand World Phú Quốc, công viên chủ đề VinWonders Phú Quốc, Safari Phú Quốc đến Cầu Hôn, thị trấn Hoàng Hôn, cáp treo Hòn Thơm (An Thới) và chợ đêm, khách quốc t... [4795 chars]",
-            "url": "https://tuoitre.vn/phu-quoc-bung-no-khach-quoc-te-20251231231529893.htm",
-            "image": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2025/12/31/phu-quoc-2-1-1-25-read-only-17671944809611288097500-75-0-1077-1913-crop-17671976221321897271182.jpg",
-            "publishedAt": "2026-01-01T01:29:00Z",
-            "lang": "vi",
-            "source": {
-                "id": "7958117e3a99d7304d8e2c88fa397326",
-                "name": "Tuổi trẻ",
-                "url": "https://tuoitre.vn"
             }
         }
     ]
