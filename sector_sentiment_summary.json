@@ -1,20 +1,8 @@
 {
     "other": {
-        "total": 8,
+        "total": 10,
         "positive": 0,
-        "neutral": 7,
+        "neutral": 9,
         "negative": 1
-    },
-    "stock": {
-        "total": 1,
-        "positive": 0,
-        "neutral": 1,
-        "negative": 0
-    },
-    "real_estate": {
-        "total": 1,
-        "positive": 0,
-        "neutral": 1,
-        "negative": 0
     }
 }

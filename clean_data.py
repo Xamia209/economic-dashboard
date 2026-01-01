@@ -20,7 +20,7 @@ for article in raw.get("articles", []):
         "title": article.get("title", "").strip(),
         "description": article.get("description", "").strip(),
         "source": article.get("source", {}).get("name", "Unknown"),
-        "url": article.get("url", ""),
+        "link": article.get("url", ""),  
         "publishedAt": article.get("publishedAt", "")
     })
 
