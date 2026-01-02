@@ -1,6 +1,15 @@
 {
     "articles": [
         {
+            "title": "Quy định về chuyển đất vườn sang đất ở có hiệu lực từ 1-1-2026, người dân nộp tiền ít hơn",
+            "description": "Mức nộp tiền sử dụng đất khi người dân muốn chuyển đất vườn sang đất ở giảm đi đáng kể theo quy định mới.",
+            "url": "https://soha.vn/quy-dinh-ve-chuyen-dat-vuon-sang-dat-o-co-hieu-luc-tu-1-1-2026-nguoi-dan-nop-tien-it-hon-198260101211832945.htm",
+            "source": {
+                "name": "soha"
+            },
+            "publishedAt": "2026-01-01 16:36:00"
+        },
+        {
             "title": "200.000 nhân viên ngân hàng sắp thất nghiệp vì AI: “Bất kỳ công việc nào thường xuyên lặp lại đều có nguy cơ biến mất”",
             "description": "Các nhà phân tích ước tính rằng hơn 200.000 việc làm trong ngành ngân hàng châu Âu sẽ bị đe dọa trong 5 năm tới, trong bối cảnh các ngân hàng ngày càng ứng dụng trí tuệ nhân tạo và đóng cửa nhiều chi nhánh.",
             "url": "https://soha.vn/200000-nhan-vien-ngan-hang-sap-that-nghiep-vi-ai-bat-ky-cong-viec-nao-thuong-xuyen-lap-lai-deu-co-nguy-co-bien-mat-198260101173229551.htm",
@@ -170,15 +179,6 @@
                 "name": "soha"
             },
             "publishedAt": "2026-01-01 14:41:00"
-        },
-        {
-            "title": "Mở rộng hợp lý chính sách tài khóa, hướng tới tăng trưởng hai con số",
-            "description": null,
-            "url": "https://vn.investing.com/news/economy-news/mo-rong-hop-ly-chinh-sach-tai-khoa-huong-toi-tang-truong-hai-con-so-2502707",
-            "source": {
-                "name": "investing_vn"
-            },
-            "publishedAt": "2026-01-01 14:30:36"
         }
     ]
 }

@@ -1,8 +1,26 @@
 {
     "other": {
-        "total": 10,
+        "total": 17,
         "positive": 0,
-        "neutral": 9,
+        "neutral": 16,
         "negative": 1
+    },
+    "banking": {
+        "total": 1,
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+    },
+    "export": {
+        "total": 1,
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+    },
+    "macro": {
+        "total": 1,
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
     }
 }

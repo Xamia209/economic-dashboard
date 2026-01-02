@@ -1,10 +1,8 @@
 import json
 import os
 
-# Vị trí file JSON gốc
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# KHÔNG dùng thư mục data nữa
 input_path = os.path.join(BASE_DIR, "news_data.json")
 output_path = os.path.join(BASE_DIR, "clean_data.json")
 
@@ -17,10 +15,10 @@ clean_articles = []
 # 2. Lọc & chuẩn hóa từng bài
 for article in raw.get("articles", []):
     clean_articles.append({
-        "title": article.get("title", "").strip(),
-        "description": article.get("description", "").strip(),
+        "title": (article.get("title") or "").strip(),
+        "description": (article.get("description") or "").strip(),
         "source": article.get("source", {}).get("name", "Unknown"),
-        "link": article.get("url", ""),  
+        "link": article.get("url", ""),
         "publishedAt": article.get("publishedAt", "")
     })
 
