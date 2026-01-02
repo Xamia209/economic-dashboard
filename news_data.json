@@ -1,6 +1,33 @@
 {
     "articles": [
         {
+            "title": "Viglacera lên kế hoạch 2026: doanh thu đi ngang, lợi nhuận tăng nhẹ 4,4%",
+            "description": "Hội đồng quản trị Tổng công ty Viglacera - CTCP (Mã: VGC) vừa thông qua các chỉ tiêu sản xuất kinh doanh tạm thời cho năm 2026.",
+            "url": "https://cafef.vn/viglacera-len-ke-hoach-2026-doanh-thu-di-ngang-loi-nhuan-tang-nhe-44-188260101224919733.chn",
+            "source": {
+                "name": "cafef"
+            },
+            "publishedAt": "2026-01-01 17:02:00"
+        },
+        {
+            "title": "Từ hôm nay, Agribank, Vietcombank, VietinBank,... tạm ngừng toàn bộ giao dịch rút/chuyển tiền đối với trường hợp sau",
+            "description": "Nhiều ngân hàng thương mại lớn như Vietcombank, VietinBank, Agribank, BIDV... sẽ tạm ngừng giao dịch với trường hợp dưới đây.",
+            "url": "https://soha.vn/tu-hom-nay-agribank-vietcombank-vietinbank-tam-ngung-toan-bo-giao-dich-rut-chuyen-tien-doi-voi-truong-hop-sau-198260101190209486.htm",
+            "source": {
+                "name": "soha"
+            },
+            "publishedAt": "2026-01-01 17:01:00"
+        },
+        {
+            "title": "Tôi vượt bạn nhờ khoản thừa kế 600 triệu năm 24 tuổi",
+            "description": "Đội trời đạp đất từ bàn tay trắng để làm gì, nếu đến lúc cha mẹ già yếu, cần tiền thuốc thang mà ta bất lực?",
+            "url": "https://vnexpress.net/toi-vuot-ban-nho-khoan-thua-ke-600-trieu-nam-24-tuoi-5000884.html",
+            "source": {
+                "name": "vnexpress"
+            },
+            "publishedAt": "2026-01-01 17:00:00"
+        },
+        {
             "title": "Quy định về chuyển đất vườn sang đất ở có hiệu lực từ 1-1-2026, người dân nộp tiền ít hơn",
             "description": "Mức nộp tiền sử dụng đất khi người dân muốn chuyển đất vườn sang đất ở giảm đi đáng kể theo quy định mới.",
             "url": "https://soha.vn/quy-dinh-ve-chuyen-dat-vuon-sang-dat-o-co-hieu-luc-tu-1-1-2026-nguoi-dan-nop-tien-it-hon-198260101211832945.htm",
@@ -152,33 +179,6 @@
                 "name": "cafebiz"
             },
             "publishedAt": "2026-01-01 14:48:00"
-        },
-        {
-            "title": "Người dân TPHCM mua gì trong ngày đầu tiên của kỳ nghỉ Tết Dương lịch 2026?",
-            "description": "Ngày đầu tiên của kỳ nghỉ Tết Dương lịch 2026, không khí mua sắm ở các cửa hàng, siêu thị nhộn nhịp hơn nhiều so với những năm trước",
-            "url": "https://cafebiz.vn/nguoi-dan-tphcm-mua-gi-trong-ngay-dau-tien-cua-ky-nghi-tet-duong-lich-2026-176260101190746179.chn",
-            "source": {
-                "name": "cafebiz"
-            },
-            "publishedAt": "2026-01-01 14:45:00"
-        },
-        {
-            "title": "VinFast Lạc Hồng 900 LX rục rịch mở bán, giá dự kiến từ 5 tỉ đồng",
-            "description": "Thông tin từ một số đại lý VinFast, mẫu xe Lạc Hồng 900 LX - dòng xe siêu sang mới của VinFast, sẽ được mở bán từ đầu năm nay.",
-            "url": "https://cafebiz.vn/vinfast-lac-hong-900-lx-ruc-rich-mo-ban-gia-du-kien-tu-5-ti-dong-176260101190522052.chn",
-            "source": {
-                "name": "cafebiz"
-            },
-            "publishedAt": "2026-01-01 14:45:00"
-        },
-        {
-            "title": "Shipper bị đánh giá 1 sao, cách phản ứng khiến tất cả bật khóc",
-            "description": "Không ai có thể nghĩ shipper này lại làm như vậy chỉ vì 1 đánh giá 1 sao...",
-            "url": "https://soha.vn/shipper-bi-danh-gia-1-sao-cach-phan-ung-khien-tat-ca-bat-khoc-198260101201959543.htm",
-            "source": {
-                "name": "soha"
-            },
-            "publishedAt": "2026-01-01 14:41:00"
         }
     ]
 }

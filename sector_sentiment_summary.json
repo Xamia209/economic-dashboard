@@ -1,9 +1,9 @@
 {
-    "other": {
-        "total": 17,
-        "positive": 0,
-        "neutral": 16,
-        "negative": 1
+    "industry": {
+        "total": 1,
+        "positive": 1,
+        "neutral": 0,
+        "negative": 0
     },
     "banking": {
         "total": 1,
@@ -11,7 +11,25 @@
         "neutral": 1,
         "negative": 0
     },
-    "export": {
+    "other": {
+        "total": 9,
+        "positive": 0,
+        "neutral": 8,
+        "negative": 1
+    },
+    "policy_law": {
+        "total": 2,
+        "positive": 0,
+        "neutral": 2,
+        "negative": 0
+    },
+    "technology": {
+        "total": 5,
+        "positive": 0,
+        "neutral": 5,
+        "negative": 0
+    },
+    "energy": {
         "total": 1,
         "positive": 0,
         "neutral": 1,

@@ -22,26 +22,73 @@ results = []
 SECTORS = {
     "banking": [
         "ngân hàng", "nhnn", "lãi suất", "tín dụng", "vay",
-        "lãi điều hành", "thanh khoản", "huy động vốn"
+        "lãi điều hành", "thanh khoản", "huy động vốn",
+        "nợ xấu", "tái cơ cấu ngân hàng"
     ],
+
     "real_estate": [
         "bất động sản", "địa ốc", "nhà đất", "chung cư",
-        "dự án", "thị trường nhà", "mua bán nhà"
+        "dự án", "thị trường nhà", "mua bán nhà",
+        "đấu giá đất", "nhà ở xã hội"
     ],
+
     "stock": [
         "chứng khoán", "cổ phiếu", "vn-index", "vnindex",
-        "hose", "hnx", "upcom", "thị trường chứng khoán"
+        "hose", "hnx", "upcom", "thị trường chứng khoán",
+        "thị trường vốn", "nhà đầu tư"
     ],
+
     "export": [
         "xuất khẩu", "xuất nhập khẩu", "đơn hàng",
-        "thương mại", "kim ngạch", "fdi", "xuất sang"
+        "kim ngạch", "xuất sang", "thị trường nước ngoài"
     ],
+
     "macro": [
         "kinh tế", "tăng trưởng", "lạm phát", "gdp",
-        "chính sách", "vĩ mô", "tài khóa", "tiền tệ"
+        "chính sách", "vĩ mô", "tài khóa", "tiền tệ",
+        "ổn định kinh tế", "phục hồi kinh tế"
+    ],
+
+    "industry": [
+        "sản xuất", "công nghiệp", "nhà máy", "khu công nghiệp",
+        "chế biến", "chế tạo"
+    ],
+
+    "energy": [
+        "năng lượng", "điện", "xăng", "dầu",
+        "giá xăng", "điện lực", "nhiên liệu",
+        "điện gió", "điện mặt trời"
+    ],
+
+    "transport": [
+        "giao thông", "logistics", "vận tải",
+        "cảng biển", "hàng không", "đường sắt",
+        "chuỗi cung ứng"
+    ],
+
+    "retail": [
+        "bán lẻ", "tiêu dùng", "thị trường tiêu dùng",
+        "siêu thị", "doanh thu bán lẻ", "sức mua"
+    ],
+
+    "technology": [
+        "công nghệ", "chuyển đổi số", "ai",
+        "trí tuệ nhân tạo", "phần mềm",
+        "startup", "công nghệ số"
+    ],
+
+    "agriculture": [
+        "nông nghiệp", "nông sản", "lúa gạo",
+        "cà phê", "thủy sản", "chăn nuôi",
+        "xuất khẩu gạo"
+    ],
+
+    "policy_law": [
+        "nghị định", "thông tư", "luật",
+        "chính phủ", "quốc hội",
+        "cải cách", "quy định mới"
     ]
 }
-
 # =====================
 # NORMALIZE TEXT (CỰC KỲ QUAN TRỌNG)
 # =====================
