@@ -1,56 +1,34 @@
 import requests
 import os
-import time
-import random
-
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 URL = "https://newsdata.io/api/1/news"
-API_KEY = "pub_b9cc184c4b25417bace052270458a5d6"
+
+# ⚠️ KHUYÊN DÙNG ENV, nhưng để bạn test thì giữ cứng cũng OK
+API_KEY = os.getenv("NEWSDATA_API_KEY", "pub_b9cc184c4b25417bace052270458a5d6")
 
 
-def collect_news(max_pages: int = 2):
-    all_articles = []
-    next_page = None
+def collect_news():
+    params = {
+        "country": "vn",
+        "language": "vi",
+        "category": "business",
+        "apikey": API_KEY
+    }
 
-    for _ in range(max_pages):
-        params = {
-            "country": "vn",
-            "language": "vi",
-            "category": "business",
-            "apikey": API_KEY,
+    try:
+        r = requests.get(URL, params=params, timeout=20)
 
-            # 🔥 CACHE BUSTER – QUAN TRỌNG NHẤT
-            "_ts": int(time.time()),
-            "_rnd": random.randint(1, 1_000_000)
-        }
+        # ❗ Nếu HTTP != 200 → NÉM LỖI
+        r.raise_for_status()
 
-        if next_page:
-            params["page"] = next_page
+        data = r.json()
 
-        response = requests.get(URL, params=params, timeout=15)
+        # ❗ API trả sai format
+        if "results" not in data:
+            raise RuntimeError(f"API trả dữ liệu lạ: {data}")
 
-        if response.status_code != 200:
-            raise RuntimeError(f"API ERROR {response.status_code}")
+        return data["results"]
 
-        data = response.json()
-        articles = data.get("results", [])
-        all_articles.extend(articles)
-
-        next_page = data.get("nextPage")
-        if not next_page:
-            break
-
-    # Normalize
-    normalized = [
-        {
-            "title": a.get("title", ""),
-            "description": a.get("description", ""),
-            "link": a.get("link", ""),
-            "source": a.get("source_id", "Unknown"),
-            "publishedAt": a.get("pubDate", "")
-        }
-        for a in all_articles
-    ]
-
-    return normalized
+    except Exception as e:
+        # ❗ QUAN TRỌNG: KHÔNG print, NÉM LỖI LÊN APP
+        raise RuntimeError(f"collect_news FAILED: {e}")

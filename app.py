@@ -6,7 +6,7 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 import nltk
 
 # =====================
-# SETUP
+# CONFIG
 # =====================
 st.set_page_config(page_title="Economic Dashboard", layout="wide")
 nltk.download("vader_lexicon", quiet=True)
@@ -26,11 +26,11 @@ if "last_error" not in st.session_state:
 # =====================
 # PIPELINE
 # =====================
-def update_news_pipeline():
+def update_pipeline():
     sia = SentimentIntensityAnalyzer()
     articles = collect_news()
 
-    processed = []
+    news = []
     sector_summary = {}
 
     for a in articles:
@@ -44,15 +44,17 @@ def update_news_pipeline():
         else:
             label = "neutral"
 
+        title = a.get("title", "")
+        title_lower = title.lower()
+
         sector = "other"
-        title = a.get("title", "").lower()
-        if "ngân hàng" in title or "bank" in title:
+        if "ngân hàng" in title_lower or "bank" in title_lower:
             sector = "banking"
-        elif "bất động sản" in title:
+        elif "bất động sản" in title_lower:
             sector = "real_estate"
 
-        processed.append({
-            "title": a.get("title", ""),
+        news.append({
+            "title": title,
             "sentiment_label": label,
             "sector": sector
         })
@@ -62,31 +64,30 @@ def update_news_pipeline():
         )
         sector_summary[sector][label] += 1
 
-    return processed, sector_summary
+    return news, sector_summary
 
 # =====================
-# UPDATE FORM (🔥 QUAN TRỌNG)
+# SIDEBAR – FORM (KHÔNG RERUN)
 # =====================
 with st.sidebar.form("update_form"):
     submitted = st.form_submit_button("🔄 Cập nhật tin tức mới")
 
 if submitted:
-    st.session_state.last_error = None
     try:
-        news, sector = update_news_pipeline()
+        news, sector = update_pipeline()
         st.session_state.news_data = news
         st.session_state.sector_data = sector
-        st.sidebar.success("✅ Update thành công")
+        st.sidebar.success(f"✅ Lấy được {len(news)} bài")
     except Exception:
         st.session_state.last_error = traceback.format_exc()
 
 # =====================
-# SHOW ERROR (NẾU CÓ)
+# HIỆN LỖI (KHÓA MÀN HÌNH)
 # =====================
 if st.session_state.last_error:
-    st.error("❌ Lỗi khi cập nhật tin tức")
+    st.error("❌ LỖI KHI CẬP NHẬT TIN TỨC")
     st.code(st.session_state.last_error)
-    st.stop()
+    st.stop()   # ❗ CỰC QUAN TRỌNG – KHÔNG CHO NÓ BIẾN MẤT
 
 # =====================
 # UI
@@ -94,12 +95,13 @@ if st.session_state.last_error:
 st.title("📊 Dashboard Tin tức Kinh tế")
 
 if not st.session_state.news_data:
-    st.info("Chưa có dữ liệu. Bấm cập nhật để lấy tin.")
+    st.info("Chưa có dữ liệu. Bấm 'Cập nhật tin tức mới'.")
 else:
     df = pd.DataFrame(st.session_state.news_data)
-    left, right = st.columns([2, 1])
+    left_col, right_col = st.columns([2, 1])
 
-    with left:
+    with left_col:
+        st.subheader("📰 Tin tức")
         for _, row in df.iterrows():
             st.markdown(f"**{row['title']}**")
             st.caption(f"Ngành: {row['sector']}")
@@ -111,5 +113,6 @@ else:
                 st.info("Trung tính")
             st.divider()
 
-    with right:
+    with right_col:
+        st.subheader("📈 Tổng quan sentiment")
         st.bar_chart(df["sentiment_label"].value_counts())
