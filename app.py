@@ -84,10 +84,17 @@ def update_news_pipeline():
 st.sidebar.header("⚙️ Điều khiển")
 
 if st.sidebar.button("🔄 Cập nhật tin tức mới"):
-    with st.spinner("Đang cập nhật tin tức..."):
-        update_news_pipeline()
-    st.success("✅ Đã cập nhật xong!")
-    st.rerun()
+    try:
+        with st.spinner("Đang cập nhật tin tức..."):
+            update_news_pipeline()
+
+        st.success("✅ Đã cập nhật xong!")
+        st.rerun()
+
+    except Exception as e:
+        st.error("❌ Cập nhật thất bại")
+        st.exception(e)   # 🔥 DÒNG QUAN TRỌNG NHẤT
+
 
 
 # =====================

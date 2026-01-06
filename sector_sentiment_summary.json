@@ -1,50 +1,12 @@
 {
-    "banking": {
-        "total": 1,
-        "positive": 0,
-        "neutral": 1,
-        "negative": 0
-    },
-    "real_estate": {
-        "total": 5,
-        "positive": 1,
-        "neutral": 4,
-        "negative": 0
-    },
-    "energy": {
-        "total": 2,
-        "positive": 0,
-        "neutral": 2,
-        "negative": 0
-    },
-    "export": {
-        "total": 1,
-        "positive": 0,
-        "neutral": 1,
-        "negative": 0
-    },
-    "stock": {
-        "total": 4,
-        "positive": 1,
-        "neutral": 3,
-        "negative": 0
-    },
-    "other": {
-        "total": 5,
-        "positive": 0,
-        "neutral": 5,
-        "negative": 0
-    },
-    "transport": {
-        "total": 1,
-        "positive": 0,
-        "neutral": 1,
-        "negative": 0
-    },
-    "macro": {
-        "total": 1,
-        "positive": 1,
-        "neutral": 0,
-        "negative": 0
-    }
+  "other": {
+    "positive": 6,
+    "neutral": 12,
+    "negative": 1
+  },
+  "banking": {
+    "positive": 0,
+    "neutral": 1,
+    "negative": 0
+  }
 }

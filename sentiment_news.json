@@ -1,322 +1,302 @@
 [
-    {
-        "title": "VPX: Giải mã tăng trưởng mảng IB của VPBankS",
-        "description": "Trong bức tranh cạnh tranh ngày càng khốc liệt của thị trường tài chính, mảng ngân hàng đầu tư (Investment Banking – IB) luôn được xem là “sân chơi” đòi hỏi vị thế, uy tín và chiều sâu năng lực.",
-        "source": "stockbiz",
-        "link": "https://stockbiz.vn/tin-tuc/vpx-giai-ma-tang-truong-mang-ib-cua-vpbanks/37611893",
-        "publishedAt": "2026-01-06 00:35:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "banking",
-        "debug_updated_at": 1767703001.059093
+  {
+    "title": "Nhận định thị trường chứng khoán ngày 6 1 Ưu tiên nắm giữ các cổ phiếu có nền tảng cơ bản tốt",
+    "description": "Thị trường chứng khoán bước vào phiên giao dịch ngày 6 1 trong bối cảnh diễn biến giằng co độ rộng kém tích cực và dòng tiền chưa thực sự cải thiện Trước áp lực điều chỉnh ngắn hạn khi VN Index tiệm cận vùng kháng cự quan trọng nhà đầu tư được khuyến nghị cơ cấu danh mục hợp lý và ưu tiên nắm giữ các cổ phiếu có nền tảng cơ bản tốt triển vọng tăng trưởng trung – dài hạn",
+    "link": "https://kinhtexaydung.petrotimes.vn/nhan-dinh-thi-truong-chung-khoan-ngay-61-uu-tien-nam-giu-cac-co-phieu-co-nen-tang-co-ban-tot-736484.html",
+    "source": "petrotimes",
+    "publishedAt": "2026-01-06 00:55:38",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "Công ty xây dựng của tỷ phú Phạm Nhật Vượng tuyển thợ lương 33 triệu, tổ trưởng 41 triệu, Coteccons, Hòa Bình cũng ráo riết chạy đua tuyển quân",
-        "description": "Hình ảnh poster tuyển dụng cho dự án Làng Vân - Đà Nẵng của VinCons đang thu hút sự chú ý đặc biệt nhờ cam kết \"không nợ lương\" và chế độ đãi ngộ chi tiết đến từng nhóm thợ, trong bối cảnh các nhà thầu lớn khác cũng đang ráo riết tuyển quân đầu năm 2026.",
-        "source": "soha",
-        "link": "https://soha.vn/cong-ty-xay-dung-cua-ty-phu-pham-nhat-vuong-tuyen-tho-luong-33-trieu-to-truong-41-trieu-coteccons-hoa-binh-cung-rao-riet-chay-dua-tuyen-quan-198260105220538616.htm",
-        "publishedAt": "2026-01-06 00:34:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.97,
-            "pos": 0.03,
-            "compound": 0.3818
-        },
-        "sentiment_label": "positive",
-        "sector": "real_estate",
-        "debug_updated_at": 1767703001.0605419
+    "sentiment_label": "neutral",
+    "sector": "other"
+  },
+  {
+    "title": "Giá vàng thế giới tăng hơn 100 USD, chứng khoán Mỹ lập kỷ lục",
+    "description": "Việc Mỹ tập kích Venezuela tiếp tục làm tăng nhu cầu mua vàng trú ẩn, đồng thời kéo nhóm cổ phiếu năng lượng tại Mỹ lên cao.",
+    "link": "https://vnexpress.net/gia-vang-the-gioi-tang-hon-100-usd-chung-khoan-my-lap-ky-luc-5002197.html",
+    "source": "vnexpress",
+    "publishedAt": "2026-01-06 00:55:38",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "Giá dầu WTI tăng gần 2% sau sự vụ ở Venezuela",
-        "description": "Giá dầu thô tăng mạnh trong phiên 05/01, khi rủi ro địa chính trị xoay quanh Venezuela khiến thị trường lo ngại về triển vọng nguồn cung.",
-        "source": "vietstock",
-        "link": "http://vietstock.vn/2026/01/gia-dau-wti-tang-gan-2-sau-su-vu-o-venezuela-34-1388004.htm",
-        "publishedAt": "2026-01-06 00:33:17",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "energy",
-        "debug_updated_at": 1767703001.0608504
+    "sentiment_label": "neutral",
+    "sector": "other"
+  },
+  {
+    "title": "Giá vàng nhảy hơn 100 USD/oz, SPDR Gold Trust “án binh bất động”",
+    "description": "Gi#225; v#224;ng thế giới tăng gần 3% trong phi#234;n giao dịch ng#224;y thứ Hai (5/1), đạt mức cao nhất 1 tuần, khi nhu cầu ph#242;ng ngừa rủi ro của giới đầu tư to#224;n cầu tăng cao giữa bất ổn địa ch#237;nh trị ở Venezuela...",
+    "link": "https://vneconomy.vn/gia-vang-nhay-hon-100-usdoz-spdr-gold-trust-an-binh-bat-dong.htm",
+    "source": "vneconomy",
+    "publishedAt": "2026-01-06 00:54:22",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 0.943,
+      "pos": 0.057,
+      "compound": 0.5106
     },
-    {
-        "title": "Cuộc đua sầu riêng tại Trung Quốc: Việt Nam áp sát Thái Lan, tiến gần tới mốc 50% thị phần",
-        "description": "Trung Quốc nhập khẩu sầu riêng từ Việt Nam tăng mạnh hơn so với nhập khẩu từ Thái Lan, khiến tỷ trọng của 2 nhà xuất khẩu đang có sự thay đổi.",
-        "source": "cafef",
-        "link": "https://cafef.vn/cuoc-dua-sau-rieng-tai-trung-quoc-viet-nam-ap-sat-thai-lan-tien-gan-toi-moc-50-thi-phan-188260106064625925.chn",
-        "publishedAt": "2026-01-06 00:33:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "export",
-        "debug_updated_at": 1767703001.0611866
+    "sentiment_label": "positive",
+    "sector": "other"
+  },
+  {
+    "title": "Xác lập mục tiêu kiểm soát tỷ lệ đất thoái hóa toàn quốc không không quá 40%",
+    "description": "X#226;y dựng quy hoạch, kế hoạch c#225;c khu vực sa mạc ho#225; theo hướng th#237;ch ứng v#224; giảm thiểu t#225;c động của kh#244; hạn v#224; tho#225;i ho#225; đất, giữ ổn định 3,5 triệu ha đất trồng l#250;a; bảo đảm tỷ lệ che phủ rừng ổn định ở mức 42-43%. Mục ti#234;u đến năm 2050, tổng diện t#237;ch đất bị tho#225;i h#243;a kh#244;ng vượt qu#225; 40% diện t#237;ch đất tự nhi#234;n, trong đ#243; diện t#237;ch đất tho#225;i h#243;a nặng, c#243; nguy cơ sa mạc h#243;a cao, kh#244;ng vượt qu#225; 4,5%...",
+    "link": "https://vneconomy.vn/xac-lap-muc-tieu-kiem-soat-ty-le-dat-thoai-hoa-toan-quoc-khong-khong-qua-40.htm",
+    "source": "vneconomy",
+    "publishedAt": "2026-01-06 00:52:39",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 0.978,
+      "pos": 0.022,
+      "compound": 0.34
     },
-    {
-        "title": "Ông Kumar Mukul của PubMatic bán cổ phiếu trị giá 47.999 USD",
-        "description": "",
-        "source": "investing_vn",
-        "link": "https://vn.investing.com/news/insider-trading-news/ong-kumar-mukul-cua-pubmatic-ban-co-phieu-tri-gia-47999-usd-93CH-2504429",
-        "publishedAt": "2026-01-06 00:32:31",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "stock",
-        "debug_updated_at": 1767703001.0613124
+    "sentiment_label": "positive",
+    "sector": "other"
+  },
+  {
+    "title": "Giá vàng hôm nay 6-1: Tiếp tục tăng mạnh",
+    "description": "Giá vàng hôm nay, 6-1, tăng vọt khi nhu cầu trú ẩn vốn an toàn tăng cao do bất ổn địa chính trị sau chiến dịch quân sự của Mỹ tại Venezuela",
+    "link": "https://cafebiz.vn/gia-vang-hom-nay-6-1-tiep-tuc-tang-manh-176260106065213474.chn",
+    "source": "cafebiz",
+    "publishedAt": "2026-01-06 00:51:00",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "Một số cổ phiếu đáng chú ý ngày 6/1: VHM, GAS, DGW",
-        "description": "Công ty chứng khoán phân tích và đưa ra nhận định mua, bán đối với các cổ phiếu VHM, GAS, DGW.",
-        "source": "stockbiz",
-        "link": "https://stockbiz.vn/tin-tuc/mot-so-co-phieu-dang-chu-y-ngay-61-vhm-gas-dgw/37611869",
-        "publishedAt": "2026-01-06 00:31:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.925,
-            "pos": 0.075,
-            "compound": 0.3818
-        },
-        "sentiment_label": "positive",
-        "sector": "stock",
-        "debug_updated_at": 1767703001.0615852
+    "sentiment_label": "neutral",
+    "sector": "other"
+  },
+  {
+    "title": "Bỏ ra gần 100 tỷ đầu tư, một công ty xây dựng sắp nhận cổ tức tiền mặt tỷ lệ 37,75%",
+    "description": "Khoản tiền này đến từ đợt chi trả cổ tức năm 2025 của Green Town Việt Nam với tỷ lệ lên tới 37,75% trên mệnh giá 100.000 đồng/cổ phiếu, tương đương 37.750 đồng/cp. Thời gian thanh toán dự kiến bắt đầu từ ngày 15/01/2026.]]",
+    "link": "https://nhipsongkinhdoanh.vn/bo-ra-gan-100-ty-dau-tu--mot-cong-ty-xay-dung-sap-nhan-co-tuc-tien-mat-ty-le-37-75-24477.htm",
+    "source": "nhipsongkinhdoanh",
+    "publishedAt": "2026-01-06 00:50:00",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 0.961,
+      "pos": 0.039,
+      "compound": 0.3818
     },
-    {
-        "title": "Khách quốc tế cao kỷ lục, du lịch Việt Nam năm 2025 thắng lớn",
-        "description": "",
-        "source": "investing_vn",
-        "link": "https://vn.investing.com/news/economy-news/khach-quoc-te-cao-ky-luc-du-lich-viet-nam-nam-2025-thang-lon-2504428",
-        "publishedAt": "2026-01-06 00:30:41",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "other",
-        "debug_updated_at": 1767703001.0617292
+    "sentiment_label": "positive",
+    "sector": "other"
+  },
+  {
+    "title": "Phó Tổng giám đốc HAGL thoái vốn 8,24% tại HNG",
+    "description": "Giao dịch dự kiến thực hiện từ ng#224;y 8/1 đến ng#224;y 6/2/2026 theo phương thức thỏa thuận.",
+    "link": "https://vneconomy.vn/pho-tong-giam-doc-hagl-thoai-von-824-tai-hng.htm",
+    "source": "vneconomy",
+    "publishedAt": "2026-01-06 00:49:56",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "Cẩn thận với 3 loại thực phẩm càng ăn càng già nhanh",
-        "description": "Muốn trẻ lâu, không thể chỉ trông chờ vào mỹ phẩm hay các liệu trình chăm sóc da đắt tiền.",
-        "source": "cafebiz",
-        "link": "https://cafebiz.vn/can-than-voi-3-loai-thuc-pham-cang-an-cang-gia-nhanh-176260105195332373.chn",
-        "publishedAt": "2026-01-06 00:30:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "other",
-        "debug_updated_at": 1767703001.0619764
+    "sentiment_label": "neutral",
+    "sector": "other"
+  },
+  {
+    "title": "Giám đốc FRP Holdings deVilliers bán cổ phiếu trị giá 92.365 USD",
+    "description": null,
+    "link": "https://vn.investing.com/news/insider-trading-news/giam-doc-frp-holdings-devilliers-ban-co-phieu-tri-gia-92365-usd-93CH-2504434",
+    "source": "investing_vn",
+    "publishedAt": "2026-01-06 00:46:30",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "Quá khủng: Vingroup của tỷ phú Phạm Nhật Vượng dự chi hơn 159.000 tỷ đồng tiền bồi thường, hỗ trợ tái định cư để thực hiện dự án khu đô thị thể thao Olympic",
-        "description": "Trong đó, chi phí bồi thường, hỗ trợ về đất đai và tài sản chiếm tỷ trọng lớn nhất, với hơn 141.800 tỷ đồng.",
-        "source": "stockbiz",
-        "link": "https://stockbiz.vn/tin-tuc/qua-khung-vingroup-cua-ty-phu-pham-nhat-vuong-du-chi-hon-159000-ty-dong-tien-boi-thuong-ho-tro-tai-dinh-cu-de-thuc-hien-du-an-khu-do-thi-the-thao-olympic/37611848",
-        "publishedAt": "2026-01-06 00:27:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "real_estate",
-        "debug_updated_at": 1767703001.0623791
+    "sentiment_label": "neutral",
+    "sector": "other"
+  },
+  {
+    "title": "Giá vàng hôm nay 6-1: Tiếp tục tăng mạnh",
+    "description": "Giá vàng hôm nay, 6-1, tăng vọt khi nhu cầu trú ẩn vốn an toàn tăng cao do bất ổn địa chính trị sau chiến dịch quân sự của Mỹ tại Venezuela",
+    "link": "https://soha.vn/gia-vang-hom-nay-6-1-tiep-tuc-tang-manh-198260106070503169.htm",
+    "source": "soha",
+    "publishedAt": "2026-01-06 00:46:00",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "Người dân Đồng Nai, TP.HCM đón tin vui: Sắp triển khai cây cầu Cát Lái 17.700 tỷ đồng, dài hơn 11 km",
-        "description": "Theo kế hoạch, tiến độ thực hiện dự án từ nay tới năm 2029. Tổng thời gian thi công dự kiến phần cầu, đường khoảng 48 tháng.",
-        "source": "stockbiz",
-        "link": "https://stockbiz.vn/tin-tuc/nguoi-dan-dong-nai-tphcm-don-tin-vui-sap-trien-khai-cay-cau-cat-lai-17700-ty-dong-dai-hon-11-km/37611845",
-        "publishedAt": "2026-01-06 00:25:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "real_estate",
-        "debug_updated_at": 1767703001.0627527
+    "sentiment_label": "neutral",
+    "sector": "other"
+  },
+  {
+    "title": "Vàng thế giới tăng gần 3% lên 4,450 USD, bạc tăng hơn 5%",
+    "description": null,
+    "link": "https://vn.investing.com/news/commodities-news/vang-the-gioi-tang-gan-3-len-4450-usd-bac-tang-hon-5-2504432",
+    "source": "investing_vn",
+    "publishedAt": "2026-01-06 00:45:18",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "Vàng thế giới tăng gần 3% lên 4,450 USD, bạc tăng hơn 5%",
-        "description": "Giá vàng tăng lên mức cao nhất trong một tuần trong ngày 05/01, sau khi các cuộc không kích của Mỹ tại Venezuela làm gia tăng nhu cầu trú ẩn an toàn đối với kim loại quý này.",
-        "source": "vietstock",
-        "link": "http://vietstock.vn/2026/01/vang-the-gioi-tang-gan-3-len-4450-usd-bac-tang-hon-5-759-1388003.htm",
-        "publishedAt": "2026-01-06 00:24:17",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "other",
-        "debug_updated_at": 1767703001.0631092
+    "sentiment_label": "neutral",
+    "sector": "other"
+  },
+  {
+    "title": "CPI năm 2025 tăng 3,31%, đạt mục tiêu Quốc hội đề ra",
+    "description": "Năm 2025, CPI b#236;nh qu#226;n tăng 3,31%, đạt mục ti#234;u Quốc hội đề ra; lạm ph#225;t cơ bản tăng 3,21%. Đ#226;y l#224; kết quả t#237;ch cực từ việc chủ động điều h#224;nh gi#225; c#225;c mặt h#224;ng thiết yếu như y tế, gi#225;o dục v#224; điện sinh hoạt, g#243;p phần quan trọng v#224;o việc ổn định kinh tế vĩ m#244;...",
+    "link": "https://vneconomy.vn/cpi-nam-2025-tang-331-dat-muc-tieu-quoc-hoi-de-ra.htm",
+    "source": "vneconomy",
+    "publishedAt": "2026-01-06 00:42:04",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "KBC: Khu đô thị 4.200 tỉ trên đất vàng Bắc Ninh điều chỉnh quy hoạch",
-        "description": "UBND tỉnh vừa có quyết định phê duyệt nhiệm vụ điều chỉnh quy hoạch chi tiết tỷ lệ 1/500 khu đô thị mới Phúc Ninh tại phường Võ Cường, Vũ Ninh.",
-        "source": "stockbiz",
-        "link": "https://stockbiz.vn/tin-tuc/kbc-khu-do-thi-4200-ti-tren-dat-vang-bac-ninh-dieu-chinh-quy-hoach/37611838",
-        "publishedAt": "2026-01-06 00:22:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "other",
-        "debug_updated_at": 1767703001.063426
+    "sentiment_label": "neutral",
+    "sector": "other"
+  },
+  {
+    "title": "Bộ trưởng Nguyễn Văn Thắng: Thị trường chứng khoán Việt Nam sẵn sàng đồng hành cùng kỷ nguyên phát triển mới",
+    "description": "Trước cột mốc đặc biệt - năm mở đầu kỷ nguyên phát triển mới của đất nước, Bộ trưởng Bộ Tài chính Nguyễn Văn Thắng bày tỏ tin tưởng thị trường chứng khoán Việt Nam sẽ tiếp tục khẳng định vai trò kênh huy động vốn trung và dài hạn hiệu quả cho nền kinh tế.",
+    "link": "https://stockbiz.vn/tin-tuc/bo-truong-nguyen-van-thang-thi-truong-chung-khoan-viet-nam-san-sang-dong-hanh-cung-ky-nguyen-phat-trien-moi/37611900",
+    "source": "stockbiz",
+    "publishedAt": "2026-01-06 00:39:00",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "Giá vàng thế giới tăng vọt sau căng thẳng địa chính trị tại Venezuela",
-        "description": "Trước đó, kim loại quý này từng thiết lập đỉnh lịch sử ở mức 4.549,71 USD/ounce vào ngày 26/12. Giá vàng kỳ hạn Mỹ chốt phiên tăng 2,8%, lên mức 4.451,5 USD/ounce.Hội đồng Bảo an họp khẩn về vụ Mỹ tấn công và bắt giữ Tổng thống VenezuelaTổng thống lâm thời Venezuela tuyên thệ nhậm chứcTrung Quốc khẳng định quan hệ với Venezuela sau cuộc tấn công của Mỹ",
-        "source": "vietnamplus",
-        "link": "https://www.vietnamplus.vn/gia-vang-the-gioi-tang-vot-sau-cang-thang-dia-chinh-tri-tai-venezuela-post1086779.vnp",
-        "publishedAt": "2026-01-06 00:21:15",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "other",
-        "debug_updated_at": 1767703001.0639894
+    "sentiment_label": "neutral",
+    "sector": "other"
+  },
+  {
+    "title": "Công ty con của Air China sẽ bán 108 triệu cổ phiếu Cathay Pacific",
+    "description": null,
+    "link": "https://vn.investing.com/news/stock-market-news/cong-ty-con-cua-air-china-se-ban-108-trieu-co-phieu-cathay-pacific-2504431",
+    "source": "investing_vn",
+    "publishedAt": "2026-01-06 00:37:10",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 0.843,
+      "pos": 0.157,
+      "compound": 0.3818
     },
-    {
-        "title": "Nhân vật tiền điện tử thông minh nhất đưa ra dự đoán Bitcoin mới trong 48 giờ",
-        "description": "Nhân vật tiền điện tử thông minh nhất đưa ra dự đoán Bitcoin mới trong 48 giờ",
-        "source": "stockbiz",
-        "link": "https://stockbiz.vn/tin-tuc/nhan-vat-tien-dien-tu-thong-minh-nhat-dua-ra-du-doan-bitcoin-moi-trong-48-gio/37628486",
-        "publishedAt": "2026-01-06 00:20:39",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "energy",
-        "debug_updated_at": 1767703001.0641787
+    "sentiment_label": "positive",
+    "sector": "other"
+  },
+  {
+    "title": "Vụ cựu thứ trưởng nhận hối lộ 200.000 USD: Thu giữ 175 miếng vàng, 204 sổ đỏ và hàng chục tỷ đồng của các bị can",
+    "description": "Cơ quan Cảnh sát điều tra Bộ Công an vừa ban hành Kết luận điều tra, đề nghị truy tố 23 bị can trong vụ án “Đưa hối lộ; Nhận hối lộ; Vi phạm quy định về kế toán gây hậu quả nghiêm trọng”, xảy ra tại Bộ Nông nghiệp và Phát triển nông thôn cũ, Công ty Đầu tư và Xây dựng Hoàng Dân cùng nhiều đơn vị, địa phương liên quan.",
+    "link": "https://www.xaluannews.com/modules.php?file=article&name=News&sid=3734738",
+    "source": "xaluan",
+    "publishedAt": "2026-01-06 00:36:29",
+    "sentiment": {
+      "neg": 0.035,
+      "neu": 0.94,
+      "pos": 0.025,
+      "compound": -0.25
     },
-    {
-        "title": "CII: Hợp tác với HFIC triển khai dự án 10.000 tỉ đồng",
-        "description": "CII ký biên bản ghi nhớ hợp tác với HFIC nghiên cứu, phối hợp triển khai các dự án hạ tầng trọng điểm của TPHCM với tổng giá trị 10.000 tỉ đồng.",
-        "source": "stockbiz",
-        "link": "https://stockbiz.vn/tin-tuc/cii-hop-tac-voi-hfic-trien-khai-du-an-10000-ti-dong/37611827",
-        "publishedAt": "2026-01-06 00:20:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "real_estate",
-        "debug_updated_at": 1767703001.0644557
+    "sentiment_label": "negative",
+    "sector": "other"
+  },
+  {
+    "title": "VPX: Giải mã tăng trưởng mảng IB của VPBankS",
+    "description": "Trong bức tranh cạnh tranh ngày càng khốc liệt của thị trường tài chính, mảng ngân hàng đầu tư (Investment Banking – IB) luôn được xem là “sân chơi” đòi hỏi vị thế, uy tín và chiều sâu năng lực.",
+    "link": "https://stockbiz.vn/tin-tuc/vpx-giai-ma-tang-truong-mang-ib-cua-vpbanks/37611893",
+    "source": "stockbiz",
+    "publishedAt": "2026-01-06 00:35:00",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "CEO Reddit ông Huffman bán 4,15 triệu USD cổ phiếu RDDT",
-        "description": "",
-        "source": "investing_vn",
-        "link": "https://vn.investing.com/news/insider-trading-news/ceo-reddit-ong-huffman-ban-415-trieu-usd-co-phieu-rddt-93CH-2504425",
-        "publishedAt": "2026-01-06 00:19:18",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "stock",
-        "debug_updated_at": 1767703001.0645733
+    "sentiment_label": "neutral",
+    "sector": "banking"
+  },
+  {
+    "title": "Công ty xây dựng của tỷ phú Phạm Nhật Vượng tuyển thợ lương 33 triệu, tổ trưởng 41 triệu, Coteccons, Hòa Bình cũng ráo riết chạy đua tuyển quân",
+    "description": "Hình ảnh poster tuyển dụng cho dự án Làng Vân - Đà Nẵng của VinCons đang thu hút sự chú ý đặc biệt nhờ cam kết \"không nợ lương\" và chế độ đãi ngộ chi tiết đến từng nhóm thợ, trong bối cảnh các nhà thầu lớn khác cũng đang ráo riết tuyển quân đầu năm 2026.",
+    "link": "https://soha.vn/cong-ty-xay-dung-cua-ty-phu-pham-nhat-vuong-tuyen-tho-luong-33-trieu-to-truong-41-trieu-coteccons-hoa-binh-cung-rao-riet-chay-dua-tuyen-quan-198260105220538616.htm",
+    "source": "soha",
+    "publishedAt": "2026-01-06 00:34:00",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 0.97,
+      "pos": 0.03,
+      "compound": 0.3818
     },
-    {
-        "title": "Bất động sản hết thời \"mập mờ\" thông tin",
-        "description": "Lợi ích lớn nhất của việc định danh là xóa bỏ tình trạng \"mập mờ\" về pháp lý vốn đang khiến nhiều người mua nhà lo lắng",
-        "source": "stockbiz",
-        "link": "https://stockbiz.vn/tin-tuc/bat-dong-san-het-thoi-map-mo-thong-tin/37611820",
-        "publishedAt": "2026-01-06 00:19:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "real_estate",
-        "debug_updated_at": 1767703001.0648491
+    "sentiment_label": "positive",
+    "sector": "other"
+  },
+  {
+    "title": "Giá dầu WTI tăng gần 2% sau sự vụ ở Venezuela",
+    "description": "Giá dầu thô tăng mạnh trong phiên 05/01, khi rủi ro địa chính trị xoay quanh Venezuela khiến thị trường lo ngại về triển vọng nguồn cung.",
+    "link": "http://vietstock.vn/2026/01/gia-dau-wti-tang-gan-2-sau-su-vu-o-venezuela-34-1388004.htm",
+    "source": "vietstock",
+    "publishedAt": "2026-01-06 00:33:17",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "Tăng gần 600 điểm, Dow Jones lập kỷ lục mới bất chấp khủng hoảng ở Venezuela",
-        "description": "Thị trường chứng khoán Mỹ tăng điểm trong phiên ngày 05/01, bất chấp việc Mỹ tiến hành tấn công Venezuela và bắt giữ lãnh đạo Nicolás Maduro. Giới đầu tư cho rằng động thái này sẽ không dẫn tới những xung đột địa chính trị lớn hơn có thể làm rung chuyển thị trường.",
-        "source": "vietstock",
-        "link": "http://vietstock.vn/2026/01/tang-gan-600-diem-dow-jones-lap-ky-luc-moi-bat-chap-khung-hoang-o-venezuela-773-1388002.htm",
-        "publishedAt": "2026-01-06 00:18:09",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "stock",
-        "debug_updated_at": 1767703001.065344
+    "sentiment_label": "neutral",
+    "sector": "other"
+  },
+  {
+    "title": "Cuộc đua sầu riêng tại Trung Quốc: Việt Nam áp sát Thái Lan, tiến gần tới mốc 50% thị phần",
+    "description": "Trung Quốc nhập khẩu sầu riêng từ Việt Nam tăng mạnh hơn so với nhập khẩu từ Thái Lan, khiến tỷ trọng của 2 nhà xuất khẩu đang có sự thay đổi.",
+    "link": "https://cafef.vn/cuoc-dua-sau-rieng-tai-trung-quoc-viet-nam-ap-sat-thai-lan-tien-gan-toi-moc-50-thi-phan-188260106064625925.chn",
+    "source": "cafef",
+    "publishedAt": "2026-01-06 00:33:00",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "TPHCM lắp 8 thang máy tại các cầu vượt bộ hành tuyến metro",
-        "description": "Tuyến metro số 1 sẽ được lắp đặt 8 thang máy tại các cầu vượt bộ hành nhà ga trên cao, việc này giúp hành khách di chuyển thuận tiện hơn, đặc biệt với người già, trẻ em và người khuyết tật khi sử dụng giao thông công cộng.",
-        "source": "stockbiz",
-        "link": "https://stockbiz.vn/tin-tuc/tphcm-lap-8-thang-may-tai-cac-cau-vuot-bo-hanh-tuyen-metro/37611814",
-        "publishedAt": "2026-01-06 00:17:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "transport",
-        "debug_updated_at": 1767703001.0657387
+    "sentiment_label": "neutral",
+    "sector": "other"
+  },
+  {
+    "title": "Ông Kumar Mukul của PubMatic bán cổ phiếu trị giá 47.999 USD",
+    "description": null,
+    "link": "https://vn.investing.com/news/insider-trading-news/ong-kumar-mukul-cua-pubmatic-ban-co-phieu-tri-gia-47999-usd-93CH-2504429",
+    "source": "investing_vn",
+    "publishedAt": "2026-01-06 00:32:31",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 1.0,
+      "pos": 0.0,
+      "compound": 0.0
     },
-    {
-        "title": "Lộ diện top 5 địa phương tăng trưởng cao nhất nước năm 2025",
-        "description": "",
-        "source": "investing_vn",
-        "link": "https://vn.investing.com/news/economy-news/lo-dien-top-5-dia-phuong-tang-truong-cao-nhat-nuoc-nam-2025-2504424",
-        "publishedAt": "2026-01-06 00:15:37",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.859,
-            "pos": 0.141,
-            "compound": 0.2023
-        },
-        "sentiment_label": "positive",
-        "sector": "macro",
-        "debug_updated_at": 1767703001.06588
-    }
+    "sentiment_label": "neutral",
+    "sector": "other"
+  },
+  {
+    "title": "Một số cổ phiếu đáng chú ý ngày 6/1: VHM, GAS, DGW",
+    "description": "Công ty chứng khoán phân tích và đưa ra nhận định mua, bán đối với các cổ phiếu VHM, GAS, DGW.",
+    "link": "https://stockbiz.vn/tin-tuc/mot-so-co-phieu-dang-chu-y-ngay-61-vhm-gas-dgw/37611869",
+    "source": "stockbiz",
+    "publishedAt": "2026-01-06 00:31:00",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 0.925,
+      "pos": 0.075,
+      "compound": 0.3818
+    },
+    "sentiment_label": "positive",
+    "sector": "other"
+  }
 ]
