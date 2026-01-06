@@ -1,7 +1,7 @@
-# collecting_news.py
 import requests
-import json
 import os
+import time
+import random
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -10,10 +10,6 @@ API_KEY = "pub_b9cc184c4b25417bace052270458a5d6"
 
 
 def collect_news(max_pages: int = 2):
-    """
-    Fetch news from NewsData API
-    Return: list[dict]
-    """
     all_articles = []
     next_page = None
 
@@ -22,15 +18,20 @@ def collect_news(max_pages: int = 2):
             "country": "vn",
             "language": "vi",
             "category": "business",
-            "apikey": API_KEY
+            "apikey": API_KEY,
+
+            # 🔥 CACHE BUSTER – QUAN TRỌNG NHẤT
+            "_ts": int(time.time()),
+            "_rnd": random.randint(1, 1_000_000)
         }
 
         if next_page:
             params["page"] = next_page
 
         response = requests.get(URL, params=params, timeout=15)
+
         if response.status_code != 200:
-            raise RuntimeError("API_ERROR")
+            raise RuntimeError(f"API ERROR {response.status_code}")
 
         data = response.json()
         articles = data.get("results", [])
@@ -40,7 +41,7 @@ def collect_news(max_pages: int = 2):
         if not next_page:
             break
 
-    # Normalize format
+    # Normalize
     normalized = [
         {
             "title": a.get("title", ""),
@@ -53,10 +54,3 @@ def collect_news(max_pages: int = 2):
     ]
 
     return normalized
-
-
-def save_raw_news(articles):
-    """Optional: save raw news"""
-    path = os.path.join(BASE_DIR, "news_data.json")
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(articles, f, ensure_ascii=False, indent=2)
