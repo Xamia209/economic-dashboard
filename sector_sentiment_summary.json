@@ -1,32 +1,20 @@
 {
-    "other": {
-        "total": 6,
-        "positive": 1,
-        "neutral": 5,
-        "negative": 0
-    },
-    "energy": {
-        "total": 1,
-        "positive": 1,
-        "neutral": 0,
-        "negative": 0
-    },
-    "stock": {
-        "total": 7,
-        "positive": 3,
-        "neutral": 4,
-        "negative": 0
-    },
     "banking": {
-        "total": 3,
-        "positive": 0,
-        "neutral": 3,
-        "negative": 0
-    },
-    "policy_law": {
         "total": 1,
         "positive": 0,
         "neutral": 1,
+        "negative": 0
+    },
+    "real_estate": {
+        "total": 5,
+        "positive": 1,
+        "neutral": 4,
+        "negative": 0
+    },
+    "energy": {
+        "total": 2,
+        "positive": 0,
+        "neutral": 2,
         "negative": 0
     },
     "export": {
@@ -35,10 +23,28 @@
         "neutral": 1,
         "negative": 0
     },
-    "technology": {
+    "stock": {
+        "total": 4,
+        "positive": 1,
+        "neutral": 3,
+        "negative": 0
+    },
+    "other": {
+        "total": 5,
+        "positive": 0,
+        "neutral": 5,
+        "negative": 0
+    },
+    "transport": {
         "total": 1,
         "positive": 0,
         "neutral": 1,
+        "negative": 0
+    },
+    "macro": {
+        "total": 1,
+        "positive": 1,
+        "neutral": 0,
         "negative": 0
     }
 }
