@@ -1,5 +1,47 @@
 [
   {
+    "article_id": "c2f7103a5c266a1ac506ca9c463cbfb6",
+    "link": "https://cafebiz.vn/phat-hien-nhom-moi-gioi-lam-gia-giay-to-mua-ban-300-can-nha-o-xa-hoi-1762601081029473.chn",
+    "title": "Phát hiện nhóm môi giới làm giả giấy tờ mua bán 300 căn nhà ở xã hội",
+    "description": "Hiện vụ án đang được Cơ quan Cảnh sát điều tra Công an tỉnh Thái Nguyên tiếp tục điều tra mở rộng làm rõ các đối tượng liên quan.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": [
+      "môi giới bất động sản",
+      "nhà ở xã hội",
+      "thái nguyên",
+      "làm giả giấy tờ",
+      "điều tra hình sự"
+    ],
+    "creator": [
+      "theo  tú an"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:29:00",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:50:09",
+    "image_url": "https://cafebiz.cafebizcdn.vn/zoom/700_438/162123310254002176/2026/1/8/avatar1767842938232-17678429386941119047064.jpg",
+    "video_url": null,
+    "source_id": "cafebiz",
+    "source_name": "Cafebiz",
+    "source_priority": 619255,
+    "source_url": "https://cafebiz.vn",
+    "source_icon": "https://n.bytvi.com/cafebiz.png",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": true
+  },
+  {
     "article_id": "b214088afb8776fc08a0b9db884ca62f",
     "link": "https://cafebiz.vn/tet-2026-nguoi-lao-dong-o-tro-xa-que-duoc-nhan-1-trieu-dong-neu-thoa-man-dieu-kien-sau-176260108102352994.chn",
     "title": "Tết 2026: Người lao động ở trọ, xa quê được nhận 1 triệu đồng nếu thỏa mãn điều kiện sau",
@@ -697,43 +739,6 @@
     ],
     "datatype": "news",
     "pubDate": "2026-01-08 03:02:30",
-    "pubDateTZ": "UTC",
-    "fetched_at": "2026-01-08 03:11:25",
-    "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-    "video_url": null,
-    "source_id": "investing_vn",
-    "source_name": "Investing",
-    "source_priority": 84154,
-    "source_url": "https://vn.investing.com",
-    "source_icon": "https://n.bytvi.com/investing_vn.jpg",
-    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
-    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
-    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
-    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
-    "duplicate": false
-  },
-  {
-    "article_id": "cc58efd3a7725b035b274045ea7277a9",
-    "link": "https://vn.investing.com/news/insider-trading-news/ong-shannon-robert-regan-cua-permian-resources-ban-co-phieu-tri-gia-24-trieu-usd-93CH-2506815",
-    "title": "Ông Shannon Robert Regan của Permian Resources bán cổ phiếu trị giá 2,4 triệu USD",
-    "description": null,
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "keywords": null,
-    "creator": [
-      "investing.com"
-    ],
-    "language": "vietnamese",
-    "country": [
-      "vietnam"
-    ],
-    "category": [
-      "business",
-      "top"
-    ],
-    "datatype": "news",
-    "pubDate": "2026-01-08 03:02:28",
     "pubDateTZ": "UTC",
     "fetched_at": "2026-01-08 03:11:25",
     "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",

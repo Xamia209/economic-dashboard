@@ -8,11 +8,11 @@ URL = "https://newsdata.io/api/1/news"
 API_KEY = "pub_b9cc184c4b25417bace052270458a5d6"
 
 def run_daily_task():
-    print("▶️ START collecting_news")
+    print("START collecting_news")
 
     all_articles = []
     next_page = None
-    max_pages = 2  # ~20 tin
+    max_pages = 2  # ~20 articles
 
     for i in range(max_pages):
         params = {
@@ -26,18 +26,22 @@ def run_daily_task():
             params["page"] = next_page
 
         response = requests.get(URL, params=params, timeout=20)
-        print(f"PAGE {i+1} STATUS:", response.status_code)
+        print("PAGE", i + 1, "STATUS", response.status_code)
 
-        data = response.json()
+        try:
+            data = response.json()
+        except Exception as e:
+            print("JSON ERROR:", e)
+            return
 
         if "results" not in data:
-            print("❌ API trả dữ liệu lạ:", data)
+            print("API RESPONSE INVALID:", data)
             return
 
         articles = data["results"]
         all_articles.extend(articles)
 
-        print("FETCHED:", len(articles))
+        print("FETCHED", len(articles), "ARTICLES")
 
         next_page = data.get("nextPage")
         if not next_page:
@@ -45,8 +49,9 @@ def run_daily_task():
 
     print("TOTAL ARTICLES:", len(all_articles))
 
-    raw_path = os.path.join(BASE_DIR, "sentiment_news.json")
-    with open(raw_path, "w", encoding="utf-8") as f:
+    # LƯU FILE CHO APP ĐỌC
+    news_path = os.path.join(BASE_DIR, "sentiment_news.json")
+    with open(news_path, "w", encoding="utf-8") as f:
         json.dump(all_articles, f, ensure_ascii=False, indent=2)
 
     sector_summary = {
@@ -61,7 +66,7 @@ def run_daily_task():
     with open(sector_path, "w", encoding="utf-8") as f:
         json.dump(sector_summary, f, ensure_ascii=False, indent=2)
 
-    print("✅ DONE")
+    print("DONE collecting_news")
 
 if __name__ == "__main__":
     run_daily_task()
