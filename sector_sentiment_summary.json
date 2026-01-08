@@ -1,12 +1,7 @@
 {
   "other": {
-    "positive": 6,
-    "neutral": 12,
-    "negative": 1
-  },
-  "banking": {
     "positive": 0,
-    "neutral": 1,
+    "neutral": 20,
     "negative": 0
   }
 }

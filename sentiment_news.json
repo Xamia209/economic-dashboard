@@ -1,52 +1,754 @@
 [
   {
+    "article_id": "b214088afb8776fc08a0b9db884ca62f",
+    "link": "https://cafebiz.vn/tet-2026-nguoi-lao-dong-o-tro-xa-que-duoc-nhan-1-trieu-dong-neu-thoa-man-dieu-kien-sau-176260108102352994.chn",
+    "title": "Tết 2026: Người lao động ở trọ, xa quê được nhận 1 triệu đồng nếu thỏa mãn điều kiện sau",
+    "description": "Một chính sách vô cùng nhân văn vừa được thông qua: Người lao động, đoàn viên ở trọ, xa quê nhiều năm chưa có điều kiện về nhà sẽ được hỗ trợ 1 triệu đồng để đón Tết Nguyên đán 2026 ấm áp hơn.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": [
+      "lịch nghỉ tết âm lịch",
+      "điều kiện nhận 1 triệu đồng",
+      "tết nguyên đán 2026",
+      "chính sách tết đồng nai",
+      "hỗ trợ người lao động"
+    ],
+    "creator": [
+      "theo pv"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:23:00",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:50:10",
+    "image_url": "https://cafebiz.cafebizcdn.vn/zoom/700_438/162123310254002176/2026/1/8/avatar1767842574082-17678425751701346110630.jpg",
+    "video_url": null,
+    "source_id": "cafebiz",
+    "source_name": "Cafebiz",
+    "source_priority": 619255,
+    "source_url": "https://cafebiz.vn",
+    "source_icon": "https://n.bytvi.com/cafebiz.png",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": true
+  },
+  {
+    "article_id": "caad57939b0a9a56a008ebf2de21463b",
+    "link": "https://soha.vn/vinfast-tang-von-them-30000-ty-len-gan-81000-ty-lon-hon-ca-vingroup-198260108102307033.htm",
+    "title": "VinFast tăng vốn thêm 30.000 tỷ lên gần 81.000 tỷ, lớn hơn cả Vingroup",
+    "description": "Con số 80.793 tỷ đồng thậm chí còn vượt trội hơn 77.335 tỷ đồng của Vingroup.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": [
+      "vinfast tăng vốn",
+      "vinfast",
+      "vingroup"
+    ],
+    "creator": [
+      "trí khang"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business",
+      "top"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:22:00",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:35:58",
+    "image_url": "https://sohanews.sohacdn.com/zoom/700_438/160588918557773824/2026/1/8/avatar1767842541582-17678425419991465923083.jpg",
+    "video_url": null,
+    "source_id": "soha",
+    "source_name": "Soha",
+    "source_priority": 7912,
+    "source_url": "https://soha.vn",
+    "source_icon": "https://n.bytvi.com/soha.png",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
+  },
+  {
+    "article_id": "d05c177a0951005ab5fd8ad7d03f0b52",
+    "link": "https://cafef.vn/nguoi-tung-chuyen-khoan-vao-cac-tai-khoan-mb-techcombank-vietcombank-duoi-day-khan-truong-den-cong-an-trinh-bao-188260108102145242.chn",
+    "title": "Người từng chuyển khoản vào các tài khoản MB, Techcombank, Vietcombank dưới đây khẩn trương đến công an trình báo",
+    "description": "Số tiền mà đối tượng này chiếm đoạt thông qua thủ đoạn lừa đảo tinh vi đã lên đến 707 triệu đồng.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": [
+      "chuyển khoản"
+    ],
+    "creator": null,
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business",
+      "top"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:21:00",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:45:08",
+    "image_url": "https://cafefcdn.com/zoom/700_438/203337114487263232/2026/1/8/avatar1767842413557-1767842414240280521115.jpg",
+    "video_url": null,
+    "source_id": "cafef",
+    "source_name": "Cafe",
+    "source_priority": 192826,
+    "source_url": "https://cafef.vn",
+    "source_icon": "https://n.bytvi.com/cafef.png",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
+  },
+  {
+    "article_id": "7d820e60b86c9ee1e05f833135629a20",
+    "link": "https://cafebiz.vn/chuyen-gia-tiet-lo-5-vi-tri-trong-nha-co-nguy-co-tiep-xuc-voi-nhieu-vi-nhua-gay-ung-thu-nhat-176260108092720127.chn",
+    "title": "Chuyên gia tiết lộ 5 vị trí trong nhà có nguy cơ tiếp xúc với nhiều vi nhựa gây ung thư nhất",
+    "description": "Không ít người cho rằng vi nhựa chỉ xuất hiện trong chai nước hay đồ nhựa dùng một lần. Nhưng trên thực tế, ngôi nhà hiện đại đang chứa đầy vi nhựa có khả năng gây tổn thương ADN và làm tăng nguy cơ ung thư, trong đó nhiều nguồn phơi nhiễm lại đến từ những vật dụng rất quen thuộc.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": [
+      "vi nhựa",
+      "sức khỏe",
+      "nguy cơ ung thư",
+      "bảo vệ sức khỏe",
+      "nguồn vi nhựa"
+    ],
+    "creator": [
+      "theo mỹ diệu"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:21:00",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:50:11",
+    "image_url": "https://cafebiz.cafebizcdn.vn/zoom/700_438/162123310254002176/2026/1/8/avatar1767839191426-1767839191845910270967.png",
+    "video_url": null,
+    "source_id": "cafebiz",
+    "source_name": "Cafebiz",
+    "source_priority": 619255,
+    "source_url": "https://cafebiz.vn",
+    "source_icon": "https://n.bytvi.com/cafebiz.png",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": true
+  },
+  {
+    "article_id": "7bf016b7fbe03b1edfcf3e5e649c53c6",
+    "link": "https://vn.investing.com/news/economy-news/cpi-viet-nam-nam-2025-tang-331-hoan-thanh-muc-tieu-kiem-soat-lam-phat-2506828",
+    "title": "CPI Việt Nam năm 2025 tăng 3,31%, hoàn thành mục tiêu kiểm soát lạm phát",
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": [
+      "investing.com"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:20:45",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:41:41",
+    "image_url": null,
+    "video_url": null,
+    "source_id": "investing_vn",
+    "source_name": "Investing",
+    "source_priority": 84154,
+    "source_url": "https://vn.investing.com",
+    "source_icon": "https://n.bytvi.com/investing_vn.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
+  },
+  {
+    "article_id": "11f3385607ad62e6603b26d1e76ffe23",
+    "link": "https://vn.investing.com/news/economy-news/ket-qua-noi-bat-hoat-dong-ngan-hang-tren-dia-ban-tphcm-va-tinh-dong-nai-nam-2025-2506826",
+    "title": "Kết quả nổi bật hoạt động ngân hàng trên địa bàn TPHCM và tỉnh Đồng Nai năm 2025",
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": [
+      "vietstock"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:16:03",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:41:41",
+    "image_url": "https://d52-invdn-com.investing.com/content/pic2ce684317055ead9fcfe8818b174a779.jpeg",
+    "video_url": null,
+    "source_id": "investing_vn",
+    "source_name": "Investing",
+    "source_priority": 84154,
+    "source_url": "https://vn.investing.com",
+    "source_icon": "https://n.bytvi.com/investing_vn.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
+  },
+  {
+    "article_id": "ae42752154a7a9f200749d563c03722b",
+    "link": "https://vn.investing.com/news/stock-market-news/ngay-08012026-10-co-phieu-nong-duoi-goc-nhin-ptkt-cua-vietstock-2506825",
+    "title": "Ngày 08/01/2026: 10 cổ phiếu nóng dưới góc nhìn PTKT của Vietstock",
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": [
+      "vietstock"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:15:29",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:41:42",
+    "image_url": "https://d52-invdn-com.investing.com/content/pic15dffcc2538ef783e6d4e67f54e6f3d1.jpg",
+    "video_url": null,
+    "source_id": "investing_vn",
+    "source_name": "Investing",
+    "source_priority": 84154,
+    "source_url": "https://vn.investing.com",
+    "source_icon": "https://n.bytvi.com/investing_vn.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
+  },
+  {
+    "article_id": "179df7c1788b37a1204ae55d38b50f27",
+    "link": "https://vn.investing.com/news/insider-trading-news/co-dong-lon-cua-innovative-eyewear-lucy-ban-co-phieu-tri-gia-115-trieu-usd-93CH-2506823",
+    "title": "Cổ đông lớn của Innovative Eyewear (LUCY) bán cổ phiếu trị giá 1,15 triệu USD",
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": [
+      "investing.com"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business",
+      "top"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:13:53",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:41:44",
+    "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "video_url": null,
+    "source_id": "investing_vn",
+    "source_name": "Investing",
+    "source_priority": 84154,
+    "source_url": "https://vn.investing.com",
+    "source_icon": "https://n.bytvi.com/investing_vn.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
+  },
+  {
+    "article_id": "a356361f1f6f18192258a1d64349d061",
+    "link": "https://vn.investing.com/news/insider-trading-news/ceo-hayward-holdings-holleran-ban-co-phieu-tri-gia-837899-do-la-93CH-2506821",
+    "title": "CEO Hayward Holdings Holleran bán cổ phiếu trị giá 837.899 đô la",
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": [
+      "investing.com"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business",
+      "top"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:13:30",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:41:44",
+    "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "video_url": null,
+    "source_id": "investing_vn",
+    "source_name": "Investing",
+    "source_priority": 84154,
+    "source_url": "https://vn.investing.com",
+    "source_icon": "https://n.bytvi.com/investing_vn.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
+  },
+  {
+    "article_id": "20eda261437f8c89e92f74a90a064897",
+    "link": "https://vn.investing.com/news/forex-news/ty-gia-hoi-doai-chau-a-yen-nhan-dan-te-am-dam-giua-cang-thang-ngoai-giao-2506827",
+    "title": "Tỷ giá hối đoái châu Á: yên, nhân dân tệ ảm đạm giữa căng thẳng ngoại giao",
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": [
+      "investing.com"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:12:30",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:41:40",
+    "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "video_url": null,
+    "source_id": "investing_vn",
+    "source_name": "Investing",
+    "source_priority": 84154,
+    "source_url": "https://vn.investing.com",
+    "source_icon": "https://n.bytvi.com/investing_vn.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
+  },
+  {
+    "article_id": "5eaf8723c494e195c8a21c943c012377",
+    "link": "https://vn.investing.com/news/economy-news/thu-tuong-nhat-kiem-soat-lam-phat-la-uu-tien-nam-2026-2506820",
     "title": "Thủ tướng Nhật: Kiểm soát lạm phát là ưu tiên năm 2026",
-    "sector": "other",
-    "sentiment_label": "neutral"
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": [
+      "investing.com"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:11:50",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:41:41",
+    "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC1F0BF_M.jpg",
+    "video_url": null,
+    "source_id": "investing_vn",
+    "source_name": "Investing",
+    "source_priority": 84154,
+    "source_url": "https://vn.investing.com",
+    "source_icon": "https://n.bytvi.com/investing_vn.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
   },
   {
+    "article_id": "c5b81fd5252fb017620693cd707f11f3",
+    "link": "https://cafebiz.vn/ra-san-danh-pickleball-luc-18h-22h-mua-dong-nhieu-nguoi-khong-biet-minh-dang-dang-mac-cung-mot-sai-lam-va-danh-doi-dieu-gi-176260108090318384.chn",
     "title": "Ra sân đánh pickleball lúc 18h-22h mùa đông: Nhiều người không biết mình đang đang mắc cùng một sai lầm và đánh đổi điều gì",
-    "sector": "other",
-    "sentiment_label": "neutral"
+    "description": "Đối với mỗi người chơi, thông điệp quan trọng nhất là: Lắng nghe cơ thể, tôn trọng thời tiết, không đánh đổi sức khỏe tim mạch và hệ hô hấp chỉ để cố thêm một game, một pha bóng đẹp.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": [
+      "bảo vệ sức khỏe tim mạch",
+      "khởi động trước khi chơi",
+      "lưu ý khi chơi thể thao",
+      "chơi pickleball mùa đông",
+      "ô nhiễm không khí hà nội"
+    ],
+    "creator": [
+      "theo hn"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:10:00",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:19:45",
+    "image_url": "https://cafebiz.cafebizcdn.vn/zoom/700_438/162123310254002176/2026/1/8/avatar1767837737463-1767837737941922477418.png",
+    "video_url": null,
+    "source_id": "cafebiz",
+    "source_name": "Cafebiz",
+    "source_priority": 619255,
+    "source_url": "https://cafebiz.vn",
+    "source_icon": "https://n.bytvi.com/cafebiz.png",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
   },
   {
+    "article_id": "c70b5e76b51a5770bc6abe5f8444c682",
+    "link": "https://stockbiz.vn/tin-tuc/ngan-hang-chu-dong-cung-ung-von-gop-phan-han-che-tin-dung-den/37669991",
     "title": "Ngân hàng chủ động cung ứng vốn, góp phần hạn chế tín dụng đen",
-    "sector": "other",
-    "sentiment_label": "neutral"
+    "description": "Ngành Ngân hàng đang chủ động phối hợp với chính quyền các địa phương triển khai nhiều giải pháp nhằm bảo đảm người dân tiếp cận nguồn vốn tín dụng từ các tổ chức tín dụng vào những ngày cuối năm nhằm hạn chế tín dụng đen mùa “giáp hạt”.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": null,
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:10:00",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:17:16",
+    "image_url": "https://static.fireant.vn/Upload/20260108/images/bat-dong-san-tru-so-nhnn-kv2-100920260108082556(1).jpg",
+    "video_url": null,
+    "source_id": "stockbiz",
+    "source_name": "Stockbiz",
+    "source_priority": 331116,
+    "source_url": "https://www.stockbiz.vn",
+    "source_icon": "https://n.bytvi.com/stockbiz.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
   },
   {
+    "article_id": "7e902be02485ab6355a94485b1607863",
+    "link": "https://tuoitre.vn/cuu-cuc-truong-an-toan-thuc-pham-bi-de-nghi-20-nam-tu-vi-cung-cap-duoi-nhan-gan-95-ti-20260107230309247.htm",
     "title": "Cựu Cục trưởng An toàn thực phẩm bị đề nghị 20 năm tù vì cùng cấp dưới nhận gần 95 tỉ",
-    "sector": "other",
-    "sentiment_label": "neutral"
+    "description": "Công bố bản luận tội, viện kiểm sát cáo buộc đủ căn cứ xác định ông Nguyễn Thanh Phong, cựu Cục trưởng An toàn thực phẩm Bộ Y tế, để chuyên viên nhận tiền khi xét hồ sơ công bố sản phẩm, tổng 95 tỉ đồng.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": [
+      "nguyễn thanh phong",
+      "cục trưởng cục an toàn thực phẩm",
+      "an toàn thực phẩm",
+      "trần việt nga",
+      "viện kiểm sát"
+    ],
+    "creator": [
+      "thân hoàng"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business",
+      "top"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:07:25",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:07:25",
+    "image_url": "https://cdn2.tuoitre.vn/zoom/700_700/471584752817336320/2026/1/7/cuc-truong-an-toan-thuc-pham-17678013840421958166601-108-0-1180-2048-crop-17678015245442054967397.jpg",
+    "video_url": null,
+    "source_id": "tuoitre",
+    "source_name": "Báo Tuổi Trẻ",
+    "source_priority": 22996,
+    "source_url": "https://tuoitre.vn",
+    "source_icon": "https://n.bytvi.com/tuoitre.png",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
   },
   {
+    "article_id": "49b93eeccbdbaef3393d82ca229c3e4f",
+    "link": "https://cafebiz.vn/ron-nguoi-130-tan-thit-lon-benh-duoc-phu-phep-thanh-do-hop-chat-luong-cao-bac-si-noi-moi-nguy-nhiem-doc-ke-ca-khi-nau-chin-17626010810073999.chn",
     "title": "Rợn người 130 tấn thịt lợn bệnh được \"phù phép\" thành đồ hộp chất lượng cao: Bác sĩ nói mối nguy nhiễm độc kể cả khi nấu chín",
-    "sector": "other",
-    "sentiment_label": "neutral"
+    "description": "Độc tố từ xác lợn bệnh (histamine, endotoxin, mycotoxin) vẫn tồn tại ngay cả khi nấu ở 100 độ C, không bị phá hủy hoàn toàn. Ăn phải thịt chứa độc tố có thể gây ngộ độc cấp như nôn mửa dữ dội, đau bụng, tiêu chảy, sốt cao, tụt huyết áp.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": [
+      "nguyễn phượng"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:07:00",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:19:50",
+    "image_url": "https://cafebiz.cafebizcdn.vn/zoom/700_438/162123310254002176/2026/1/8/avatar1767841617960-17678416187102146462183.jpg",
+    "video_url": null,
+    "source_id": "cafebiz",
+    "source_name": "Cafebiz",
+    "source_priority": 619255,
+    "source_url": "https://cafebiz.vn",
+    "source_icon": "https://n.bytvi.com/cafebiz.png",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
   },
   {
+    "article_id": "80195f3835a11f1186f50735f329b812",
+    "link": "https://vn.investing.com/news/economy-news/pboc-phat-tin-hieu-linh-hoat-cong-cu-tien-te-ho-tro-tang-truong-2506819",
     "title": "PBoC phát tín hiệu linh hoạt công cụ tiền tệ, hỗ trợ tăng trưởng",
-    "sector": "other",
-    "sentiment_label": "neutral"
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": [
+      "investing.com"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:06:30",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:41:41",
+    "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC8J0ET_M.jpg",
+    "video_url": null,
+    "source_id": "investing_vn",
+    "source_name": "Investing",
+    "source_priority": 84154,
+    "source_url": "https://vn.investing.com",
+    "source_icon": "https://n.bytvi.com/investing_vn.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
   },
   {
+    "article_id": "69d5b6c2816a1492ba92547c1c50d7ef",
+    "link": "https://stockbiz.vn/tin-tuc/infographic-ty-gia-tinh-cheo-de-xac-dinh-tri-gia-tinh-thue-tu-8-141/37669540",
     "title": "[Infographic] Tỷ giá tính chéo để xác định trị giá tính thuế từ 8-14/1",
-    "sector": "other",
-    "sentiment_label": "neutral"
+    "description": "Ngân hàng Nhà nước thông báo tỷ giá tính chéo của đồng Việt Nam so với một số ngoại tệ áp dụng tính thuế xuất khẩu và thuế nhập khẩu có hiệu lực kể từ ngày 8-14/1.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": null,
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:06:00",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:17:15",
+    "image_url": "https://static.fireant.vn/posts/image/3582394",
+    "video_url": null,
+    "source_id": "stockbiz",
+    "source_name": "Stockbiz",
+    "source_priority": 331116,
+    "source_url": "https://www.stockbiz.vn",
+    "source_icon": "https://n.bytvi.com/stockbiz.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
   },
   {
+    "article_id": "1f0b804034291b1908be2616d8ffcd63",
+    "link": "https://vn.investing.com/news/insider-trading-news/ong-oliphint-cfo-cua-permian-resources-ban-co-phieu-tri-gia-41-trieu-usd-93CH-2506818",
     "title": "Ông Oliphint, CFO của Permian Resources, bán cổ phiếu trị giá 4,1 triệu USD",
-    "sector": "other",
-    "sentiment_label": "neutral"
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": [
+      "investing.com"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business",
+      "top"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:04:14",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:11:25",
+    "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "video_url": null,
+    "source_id": "investing_vn",
+    "source_name": "Investing",
+    "source_priority": 84154,
+    "source_url": "https://vn.investing.com",
+    "source_icon": "https://n.bytvi.com/investing_vn.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
   },
   {
+    "article_id": "eb5a387ba88891cf37974e3bda9c3757",
+    "link": "https://vn.investing.com/news/insider-trading-news/ong-walter-james-h-cua-permian-resources-ban-co-phieu-tri-gia-106-trieu-usd-93CH-2506816",
     "title": "Ông Walter James H của Permian Resources bán cổ phiếu trị giá 10,6 triệu USD",
-    "sector": "other",
-    "sentiment_label": "neutral"
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": [
+      "investing.com"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business",
+      "top"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:02:30",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:11:25",
+    "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "video_url": null,
+    "source_id": "investing_vn",
+    "source_name": "Investing",
+    "source_priority": 84154,
+    "source_url": "https://vn.investing.com",
+    "source_icon": "https://n.bytvi.com/investing_vn.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
   },
   {
+    "article_id": "cc58efd3a7725b035b274045ea7277a9",
+    "link": "https://vn.investing.com/news/insider-trading-news/ong-shannon-robert-regan-cua-permian-resources-ban-co-phieu-tri-gia-24-trieu-usd-93CH-2506815",
     "title": "Ông Shannon Robert Regan của Permian Resources bán cổ phiếu trị giá 2,4 triệu USD",
-    "sector": "other",
-    "sentiment_label": "neutral"
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "keywords": null,
+    "creator": [
+      "investing.com"
+    ],
+    "language": "vietnamese",
+    "country": [
+      "vietnam"
+    ],
+    "category": [
+      "business",
+      "top"
+    ],
+    "datatype": "news",
+    "pubDate": "2026-01-08 03:02:28",
+    "pubDateTZ": "UTC",
+    "fetched_at": "2026-01-08 03:11:25",
+    "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+    "video_url": null,
+    "source_id": "investing_vn",
+    "source_name": "Investing",
+    "source_priority": 84154,
+    "source_url": "https://vn.investing.com",
+    "source_icon": "https://n.bytvi.com/investing_vn.jpg",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+    "duplicate": false
   }
 ]
