@@ -5,7 +5,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 URL = "https://newsdata.io/api/1/news"
-API_KEY = "YOUR_API_KEY_HERE"
+API_KEY = "pub_b9cc184c4b25417bace052270458a5d6"
 
 def run_daily_task():
     all_articles = []
