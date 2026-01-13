@@ -1,7 +1,44 @@
 {
-  "other": {
-    "positive": 0,
-    "neutral": 20,
-    "negative": 0
-  }
+    "banking": {
+        "total": 1,
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+    },
+    "other": {
+        "total": 8,
+        "positive": 2,
+        "neutral": 6,
+        "negative": 0
+    },
+    "energy": {
+        "total": 2,
+        "positive": 0,
+        "neutral": 2,
+        "negative": 0
+    },
+    "export": {
+        "total": 1,
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+    },
+    "stock": {
+        "total": 4,
+        "positive": 1,
+        "neutral": 3,
+        "negative": 0
+    },
+    "technology": {
+        "total": 3,
+        "positive": 0,
+        "neutral": 3,
+        "negative": 0
+    },
+    "real_estate": {
+        "total": 1,
+        "positive": 0,
+        "neutral": 1,
+        "negative": 0
+    }
 }

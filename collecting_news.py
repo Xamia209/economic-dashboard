@@ -5,16 +5,14 @@ import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 URL = "https://newsdata.io/api/1/news"
-API_KEY = "pub_b9cc184c4b25417bace052270458a5d6"
+API_KEY = "YOUR_API_KEY_HERE"
 
 def run_daily_task():
-    print("START collecting_news")
-
     all_articles = []
     next_page = None
-    max_pages = 2  # ~20 articles
+    max_pages = 2  # 20 articles
 
-    for i in range(max_pages):
+    for page in range(max_pages):
         params = {
             "country": "vn",
             "language": "vi",
@@ -25,48 +23,34 @@ def run_daily_task():
         if next_page:
             params["page"] = next_page
 
-        response = requests.get(URL, params=params, timeout=20)
-        print("PAGE", i + 1, "STATUS", response.status_code)
+        response = requests.get(URL, params=params, timeout=15)
+        data = response.json()
 
-        try:
-            data = response.json()
-        except Exception as e:
-            print("JSON ERROR:", e)
-            return
+        if response.status_code != 200:
+            raise RuntimeError(data)
 
-        if "results" not in data:
-            print("API RESPONSE INVALID:", data)
-            return
-
-        articles = data["results"]
+        articles = data.get("results", [])
         all_articles.extend(articles)
-
-        print("FETCHED", len(articles), "ARTICLES")
 
         next_page = data.get("nextPage")
         if not next_page:
             break
 
-    print("TOTAL ARTICLES:", len(all_articles))
+    # ===== Normalize =====
+    clean_articles = []
+    for a in all_articles:
+        clean_articles.append({
+            "title": a.get("title", ""),
+            "description": a.get("description", ""),
+            "url": a.get("link", ""),
+            "source": a.get("source_id", "Unknown"),
+            "publishedAt": a.get("pubDate", "")
+        })
 
-    # LƯU FILE CHO APP ĐỌC
-    news_path = os.path.join(BASE_DIR, "sentiment_news.json")
-    with open(news_path, "w", encoding="utf-8") as f:
-        json.dump(all_articles, f, ensure_ascii=False, indent=2)
-
-    sector_summary = {
-        "other": {
-            "positive": 0,
-            "neutral": len(all_articles),
-            "negative": 0
-        }
-    }
-
-    sector_path = os.path.join(BASE_DIR, "sector_sentiment_summary.json")
-    with open(sector_path, "w", encoding="utf-8") as f:
-        json.dump(sector_summary, f, ensure_ascii=False, indent=2)
-
-    print("DONE collecting_news")
+    # ===== Save =====
+    output_path = os.path.join(BASE_DIR, "clean_data.json")
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(clean_articles, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     run_daily_task()
