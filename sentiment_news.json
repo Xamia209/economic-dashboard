@@ -1,5 +1,65 @@
 [
     {
+        "title": "Chủ siêu dự án điện gió 5 tỷ USD tiếp tục thắng kiện chính quyền ông Trump",
+        "description": "Nhà phát triển siêu dự án điện gió Revolution Wind 5 tỷ USD thắng kiện chính quyền ông Trump liên quan đến lệnh đình chỉ dự án khi gần hoàn thiện.",
+        "url": "https://vnexpress.net/chu-sieu-du-an-dien-gio-5-ty-usd-tiep-tuc-thang-kien-chinh-quyen-ong-trump-5004910.html",
+        "source": "vnexpress",
+        "publishedAt": "2026-01-13 01:52:00",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "sentiment_label": "neutral",
+        "sector": "energy"
+    },
+    {
+        "title": "World Gold Council: Vàng giữ vững trên 4.600 USD nhưng “cửa ải” 4.770 USD mới quyết định xu hướng",
+        "description": "(GVNET) Nếu vượt 4.770 USD, giá vàng có thể bước vào chu kỳ tăng mới Giá vàng thế giới tiếp tục duy trì đà tăng mạnh, giao dịch ổn định trên mốc 4.600 USD/ounce, trong bối cảnh các cú sốc địa chính trị toàn cầu liên tiếp xuất hiện, thổi...The post World Gold Council: Vàng giữ vững trên 4.600 USD nhưng “cửa ải” 4.770 USD mới quyết định xu hướng appeared first on GiaVang.Net.",
+        "url": "https://giavang.net/world-gold-council-vang-giu-vung-tren-4-600-usd-nhung-cua-ai-4-770-usd-moi-quyet-dinh-xu-huong/",
+        "source": "giavang",
+        "publishedAt": "2026-01-13 01:48:47",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "sentiment_label": "neutral",
+        "sector": "other"
+    },
+    {
+        "title": "PLX: Tổng Bí thư Tô Lâm giao nhiệm vụ cho Petrolimex",
+        "description": "Sáng 12/1, tại lễ kỷ niệm 70 năm thành lập, Petrolimex (Mã CK: PLX) đã đón nhận Huân chương Lao động hạng Nhất và thư chúc mừng với định hướng chiến lược từ Tổng Bí thư Tô Lâm, dưới sự chứng kiến của Phó Thủ tướng Bùi Thanh Sơn.",
+        "url": "https://stockbiz.vn/tin-tuc/plx-tong-bi-thu-to-lam-giao-nhiem-vu-cho-petrolimex/37756669",
+        "source": "stockbiz",
+        "publishedAt": "2026-01-13 01:48:00",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "sentiment_label": "neutral",
+        "sector": "other"
+    },
+    {
+        "title": "Tin nhắn nguy hiểm khiến Vietcombank cảnh báo toàn bộ khách hàng",
+        "description": "Những tin nhắn Brandname mạo danh Vietcombank vẫn liên tục xuất hiện với mức độ tinh vi ngày càng cao, khiến người dùng dễ dàng sập bẫy và mất sạch tiền trong tích tắc.",
+        "url": "https://cafebiz.vn/tin-nhan-nguy-hiem-khien-vietcombank-canh-bao-toan-bo-khach-hang-176260113084835623.chn",
+        "source": "cafebiz",
+        "publishedAt": "2026-01-13 01:48:00",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "sentiment_label": "neutral",
+        "sector": "other"
+    },
+    {
         "title": "VGG: May Việt Tiến đạt doanh thu hơn 18.500 tỷ đồng, lợi nhuận tăng 14%, thưởng Tết 23 triệu đồng",
         "description": "Kỷ niệm 50 năm thành lập, May Việt Tiến (VGG) công bố tổng doanh thu toàn hệ thống đạt 18.500 tỷ đồng và đặt tham vọng cán mốc 1 tỷ USD vào năm 2030, hướng tới mô hình tập đoàn đa quốc gia.",
         "url": "https://stockbiz.vn/tin-tuc/vgg-may-viet-tien-dat-doanh-thu-hon-18500-ty-dong-loi-nhuan-tang-14-thuong-tet-23-trieu-dong/37756633",
@@ -238,65 +298,5 @@
         },
         "sentiment_label": "neutral",
         "sector": "other"
-    },
-    {
-        "title": "Vàng thế giới vượt mốc 4,600 USD, bạc lên gần 86 USD vì lo ngại về Fed",
-        "description": "Giá vàng lập kỷ lục mới trên 4,600 USD/oz và bạc cũng chạm đỉnh lịch sử, khi nhà đầu tư ồ ạt tìm đến các tài sản trú ẩn an toàn trước những bất ổn gia tăng xoay quanh cuộc điều tra hình sự Chủ tịch Cục Dự trữ Liên bang Mỹ (Fed) Jerome Powell.",
-        "url": "http://vietstock.vn/2026/01/vang-the-gioi-vuot-moc-4600-usd-bac-len-gan-86-usd-vi-lo-ngai-ve-fed-759-1390248.htm",
-        "source": "vietstock",
-        "publishedAt": "2026-01-13 01:25:24",
-        "sentiment": {
-            "neg": 0.035,
-            "neu": 0.965,
-            "pos": 0.0,
-            "compound": -0.3818
-        },
-        "sentiment_label": "negative",
-        "sector": "other"
-    },
-    {
-        "title": "Danh mục cổ phiếu cần quan tâm ngày hôm nay 13/1",
-        "description": "Trong phiên hôm nay, các cổ phiếu được công ty chứng khoán khuyến nghị nên quan tâm gồm HHV, BAF, BSI và TCB.",
-        "url": "https://stockbiz.vn/tin-tuc/danh-muc-co-phieu-can-quan-tam-ngay-hom-nay-131/37756472",
-        "source": "stockbiz",
-        "publishedAt": "2026-01-13 01:20:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.927,
-            "pos": 0.073,
-            "compound": 0.3818
-        },
-        "sentiment_label": "positive",
-        "sector": "stock"
-    },
-    {
-        "title": "Dow Jones lội ngược dòng ấn tượng",
-        "description": "Phố Wall phục hồi trở lại từ mức thấp trong phiên, với S&P 500 và Dow Jones cùng lập đỉnh mới, khi nhà đầu tư phớt lờ thông tin Bộ Tư pháp Mỹ (DOJ) mở cuộc điều tra hình sự đối với Chủ tịch Cục Dự trữ Liên bang (Fed) Jerome Powell.",
-        "url": "http://vietstock.vn/2026/01/dow-jones-loi-nguoc-dong-an-tuong-773-1390247.htm",
-        "source": "vietstock",
-        "publishedAt": "2026-01-13 01:19:26",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "other"
-    },
-    {
-        "title": "Châu Âu quyết định tung 64 nghìn quân vào Ukraine",
-        "description": "Các nước phương Tây đã vạch kế hoạch triển khai 64 nghìn quân đa quốc gia tới Ukraine để đảm bảo cho kế hoạch hòa bình ở nước này.",
-        "url": "https://soha.vn/chau-au-quyet-dinh-tung-64-nghin-quan-vao-ukraine-198260113071545988.htm",
-        "source": "soha",
-        "publishedAt": "2026-01-13 01:18:00",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        },
-        "sentiment_label": "neutral",
-        "sector": "technology"
     }
 ]
